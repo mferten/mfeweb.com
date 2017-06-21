@@ -14,23 +14,23 @@
         <form id="mfeWeb" class="signInMargin displayFlag" method="post">
             <ul>
                 <li>
-                    <a class= "resetAnchor appLanguageSel" href="http://www.mfeworld.com/" target="_blank">Flags or Birds or Flowers or Foods</a>
+                    <a class= "appLanguageSel" href="http://www.mfeworld.com/" target="_blank">Flags or Birds or Flowers or Foods</a>
                 </li>
                 <br/>
                 <li>
-                    <a class= "resetAnchor appLanguageSel" href="http://www.mywebbench.com/" target="_blank">Web Bench and Virtual Community</a>
+                    <a class= "appLanguageSel" href="http://www.mywebbench.com/" target="_blank">Web Bench and Virtual Community</a>
                 </li>
                 <br/>
                 <li>
-                    <a class= "resetAnchor appLanguageSel" href="http://www.mfework.com/" target="_blank">One of a kind of a Resort or a Villa</a>
+                    <a class= "appLanguageSel" href="http://www.mfework.com/" target="_blank">One of a kind of a Resort or a Villa</a>
                 </li>
                 <br/>
                 <li>
-                    <a class= "resetAnchor appLanguageSel" href="http://www.mfeweb.com/mail" target="_blank">Work With MFE Mail</a>
+                    <a class= "appLanguageSel" href="http://www.mfeweb.com/mail" target="_blank">Work With MFE Mail</a>
                 </li>
                 <br/>
                 <li>
-                    <a class= "resetAnchor appLanguageSel" href="https://github.com/mferten" target="_blank">MFE GitHub</a>
+                    <a class= "appLanguageSel" href="https://github.com/mferten" target="_blank">MFE GitHub</a>
                 </li>
             </ul>
             <br/><br/><br/>
