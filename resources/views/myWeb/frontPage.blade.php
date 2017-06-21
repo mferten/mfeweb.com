@@ -12,14 +12,13 @@
     {{-- Beginning of the Flag Selection; --}}
     <div id="rowID" class="row loginBP">
         <form id="mfeWeb" class="signInMargin displayFlag" method="post">
-            <br/><br/><br/>
             <ul>
                 <li>
                     <a class= "resetAnchor appLanguageSel" href="http://www.mfeworld.com/" target="_blank">Flags or Birds or Flowers or Foods</a>
                 </li>
                 <br/>
                 <li>
-                    <a class= "resetAnchor appLanguageSel" href="http://www.mywebbench.com/" target="_blank">My (your) Web Bench and Virtual Community</a>
+                    <a class= "resetAnchor appLanguageSel" href="http://www.mywebbench.com/" target="_blank">Web Bench and Virtual Community</a>
                 </li>
                 <br/>
                 <li>
