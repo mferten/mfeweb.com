@@ -1,0 +1,144 @@
+* {
+    box-sizing: border-box;
+}
+
+/* For mobile phones: */
+[class*="col-"] {
+    width: 100%;
+}
+
+[class*="col-"] {
+    float: left;
+    padding: 10px;
+}
+
+@media only screen and (min-width: 768px) {
+    /* For desktop: */
+    .col-1 {width: 8.33%;}
+    .col-2 {width: 16.66%;}
+    .col-3 {width: 25%;}
+    .col-4 {width: 33.33%;}
+    .col-5 {width: 41.66%;}
+    .col-6 {width: 50%;}
+    .col-7 {width: 58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66%;}
+    .col-12 {width: 100%;}
+}
+
+@media only screen and (max-width: 500px) {
+    body {
+        background-color:lightblue;
+    }
+}
+
+@media print {
+    body {font-size: 11pt; }
+    div.navigation { display: none; }
+    hr { page-break-after: always; }
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+html {
+    font-family: "Lucida Sans", sans-serif;
+    /* have the scroll bar all the time */
+    overflow-y: scroll;
+}
+
+body {
+    background-image: url("/images/OlympicRings.png"),
+                      url("/images/apache_pb.png"),
+                      url("/images/centosBlue.png");
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-position: left top, center 2px, right top;
+    background-size: 100px, 160px, 70px;
+    /* background-color: #3397b0; */
+}
+
+h1 {
+    color: #1a0013;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Kaushan Script', cursive;
+}
+
+h2 {
+    text-align: center;
+    font-weight: bold;
+}
+
+/* Form related MDN recommended styles */
+form {
+    /* Just to center the form on the page */
+    margin: 2px;
+    /* To see the outline of the form */
+    padding: 1em;
+    /* border: 1px solid lightgray; */
+    border-radius: 1em;
+}
+
+.mfe {
+    color: red;
+    font-weight: bold;
+    font-family: 'Kaushan Script', cursive;
+}
+
+.appLanguageSel {
+    font-size: 16pt;
+}
+
+.loginBP {
+    background-image: url("/images/njgoldfinch.jpg"),
+                      url("/images/njgoldfinchleft.jpg");
+    background-repeat: no-repeat;
+    background-position: left top, right top;
+    background-size: 33%, 33%;
+    margin-top: 50px;
+}
+
+.signInMargin
+{
+    margin-left: 40%;
+}
+
+.plainFlags {
+    width: 120px;
+    height: 75px;
+    border: 2px solid gray;
+}
+
+.resetAnchor {
+    border-style: solid;
+    border-width: 3px;
+    border-color: white;
+    padding: 3px;
+    background-color: wheat;
+    -webkit-border-image: url(border.png) 30% stretch; /* Safari 3.1-5 */
+    -o-border-image: url(border.png) 30% stretch; /* Opera 11-12.1 */
+    border-image: url(/images/border.png) 30% stretch;
+}
+
+.papayaWhipBackgroundColor {
+    background-color: gold;
+    font-weight: bold;
+}
+
+.center
+{
+    text-align: center;
+}
+
+#flags {
+    padding-top: 5px;
+}
+
+#mfeWeb {
+    font-weight: bold;
+}
