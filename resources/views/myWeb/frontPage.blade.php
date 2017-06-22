@@ -10,7 +10,7 @@
 
 @push('module')
     {{-- Beginning of the Flag Selection; --}}
-    <br/>
+    <br/><br/>
     <div id="rowID " class="row loginBP center">
         <ul class="katakanaIroha">
             <li>
@@ -33,7 +33,7 @@
                 <a href="https://github.com/mferten" target="_blank">MFE GitHub</a>
             </li>
         </ul>
-        <br/><br/>
+        <br/><br/><br/><br/>
         <div id="flags">
             <img id="flag21" class="plainFlags vertialAlignMiddle"
                 src="images/smallFlags/UnitedStatesofAmerica.png"

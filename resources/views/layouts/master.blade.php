@@ -30,9 +30,8 @@
         @stack('module')
 
         <footer class="center">
-
-            <span>&copy; {{ date('Y') }} <span class="mfe">M</span>.<span class="mfe">F</span>.<span class="mfe">E</span>. Sites by Mehmet F Erten</span><br/>
-
+            <span>&copy; {{ date('Y') }} <span class="mfe">M</span>.<span class="mfe">F</span>.<span class="mfe">E</span>. Sites by Mehmet F Erten</span>
+            <br/>
         </footer>
 
         @stack('jsFiles')
