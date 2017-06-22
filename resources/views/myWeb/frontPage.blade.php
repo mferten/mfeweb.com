@@ -10,7 +10,7 @@
 
 @push('module')
     {{-- Beginning of the Flag Selection; --}}
-    <br/><br/>
+    <br/>
     <div id="rowID " class="row loginBP center">
         <ul class="katakanaIroha">
             <li>
