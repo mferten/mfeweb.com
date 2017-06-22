@@ -103,31 +103,10 @@ form {
     margin-top: 50px;
 }
 
-.signInMargin
-{
-    margin-left: 40%;
-}
-
 .plainFlags {
-    width: 120px;
-    height: 75px;
+    width: 100px;
+    height: 70px;
     border: 2px solid gray;
-}
-
-.resetAnchor {
-    border-style: solid;
-    border-width: 3px;
-    border-color: white;
-    padding: 3px;
-    background-color: wheat;
-    -webkit-border-image: url(border.png) 30% stretch; /* Safari 3.1-5 */
-    -o-border-image: url(border.png) 30% stretch; /* Opera 11-12.1 */
-    border-image: url(/images/border.png) 30% stretch;
-}
-
-.papayaWhipBackgroundColor {
-    background-color: gold;
-    font-weight: bold;
 }
 
 .center
@@ -135,10 +114,11 @@ form {
     text-align: center;
 }
 
-#flags {
-    padding-top: 5px;
+.mfeweb {
+    font-weight: bold;
+    text-align: center;
 }
 
-#mfeWeb {
-    font-weight: bold;
+#flags {
+    padding-top: 5px;
 }
