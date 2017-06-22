@@ -13,12 +13,12 @@
         <!-- require_once("phpfile/require/headTags.php") -->
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="PHP">
-        <meta name="keywords" content="MFE Sites by Mehmet F Erten (PHP witin Laravel)">
-        <meta name="author" content="MFE Mehmet Fatih Erten">
+        <meta name="description" content="PHP/Laravel">
+        <meta name="keywords" content="MFE Sites by Mehmet F Erten">
+        <meta name="author" content="Mehmet Fatih Erten">
         <meta name="csrf-token" content="{{ csrf_token() }}">
         <title>
-            @yield('title', 'Find the Country')
+            @yield('title', 'MFE Sites')
         </title>
 
     </head>

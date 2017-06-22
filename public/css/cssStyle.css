@@ -74,24 +74,10 @@ h2 {
     font-weight: bold;
 }
 
-/* Form related MDN recommended styles */
-form {
-    /* Just to center the form on the page */
-    margin: 2px;
-    /* To see the outline of the form */
-    padding: 1em;
-    /* border: 1px solid lightgray; */
-    border-radius: 1em;
-}
-
 .mfe {
     color: red;
     font-weight: bold;
     font-family: 'Kaushan Script', cursive;
-}
-
-.appLanguageSel {
-    font-size: 16pt;
 }
 
 .loginBP {
@@ -101,11 +87,13 @@ form {
     background-position: left top, right top;
     background-size: 33%, 33%;
     margin-top: 50px;
+    font-weight: bold;
+    font-size: 18pt;
 }
 
 .plainFlags {
-    width: 100px;
-    height: 70px;
+    width: 65px;
+    height: 50px;
     border: 2px solid gray;
 }
 
@@ -114,9 +102,8 @@ form {
     text-align: center;
 }
 
-.mfeweb {
-    font-weight: bold;
-    text-align: center;
+.katakanaIroha {
+    list-style-type: katakana-iroha;
 }
 
 #flags {
