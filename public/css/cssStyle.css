@@ -92,11 +92,14 @@ h2 {
 }
 
 .plainFlags {
-    width: 65px;
-    height: 50px;
+    width: 80px;
+    height: 60px;
     border: 2px solid gray;
 }
 
+.frontPageMarginLeft {
+    margin-left: 35%;
+}
 .center
 {
     text-align: center;
@@ -108,13 +111,10 @@ h2 {
     border-color: white;
     padding: 3px;
     background-color: wheat;
-    -webkit-border-image: url(border.png) 30% stretch; /* Safari 3.1-5 */
-    -o-border-image: url(border.png) 30% stretch; /* Opera 11-12.1 */
-    border-image: url(/images/border.png) 30% stretch;
 }
 
-.katakanaIroha {
-    list-style-type: none;
+.ulListStyle {
+    list-style-type: square;
 }
 
 #flags {
