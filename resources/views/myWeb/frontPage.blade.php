@@ -14,23 +14,23 @@
     <div id="rowID " class="row loginBP center">
         <ul class="katakanaIroha">
             <li>
-                <a href="http://www.mfeworld.com/" target="_blank">Flags (to be: or Birds or Flowers or Foods)</a>
+                <a href="http://www.mfeworld.com/" target="_blank"><span class="papayaBackground">Flags (to be: or Birds or Flowers or Foods)</span></a>
             </li>
             <br/>
             <li>
-                <a href="http://www.mywebbench.com/" target="_blank">My Web Bench and Virtual Community</a>
+                <a href="http://www.mywebbench.com/" target="_blank"><span class="papayaBackground">My Web Bench and Virtual Community</span></a>
             </li>
             <br/>
             <li>
-                <a href="http://www.mfework.com/" target="_blank">One of a kind Resort or Villa</a>
+                <a href="http://www.mfework.com/" target="_blank"><span class="papayaBackground">One of a kind Resort or Villa</span></a>
             </li>
             <br/>
             <li>
-                <a href="http://www.mfeweb.com/mail" target="_blank">Work With MFE Mail</a>
+                <a href="http://www.mfeweb.com/mail" target="_blank"><span class="papayaBackground">Work With MFE Mail</span></a>
             </li>
             <br/>
             <li>
-                <a href="https://github.com/mferten" target="_blank">MFE GitHub</a>
+                <a href="https://github.com/mferten" target="_blank"><span class="papayaBackground">MFE GitHub</span></a>
             </li>
         </ul>
         <br/><br/><br/><br/>

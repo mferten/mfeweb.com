@@ -102,6 +102,17 @@ h2 {
     text-align: center;
 }
 
+.papayaBackground {
+    border-style: solid;
+    border-width: 3px;
+    border-color: white;
+    padding: 3px;
+    background-color: wheat;
+    -webkit-border-image: url(border.png) 30% stretch; /* Safari 3.1-5 */
+    -o-border-image: url(border.png) 30% stretch; /* Opera 11-12.1 */
+    border-image: url(/images/border.png) 30% stretch;
+}
+
 .katakanaIroha {
     list-style-type: none;
 }
