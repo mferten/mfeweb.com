@@ -98,19 +98,11 @@ h2 {
 }
 
 .frontPageMarginLeft {
-    margin-left: 35%;
+    margin-left: 34%;
 }
 .center
 {
     text-align: center;
-}
-
-.papayaBackgroundx {
-    border-style: solid;
-    border-width: 3px;
-    border-color: white;
-    padding: 3px;
-    background-color: wheat;
 }
 
 .ulListStyle {
