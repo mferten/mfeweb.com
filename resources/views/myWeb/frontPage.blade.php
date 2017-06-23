@@ -27,19 +27,19 @@
                 <br/>
                 <ul class="ulListStyle">
                     <li>
-                        <a href="http://www.mfeworld.com/" target="_blank">Flags (to be =>) or Birds or Flowers or Foods</a>
+                        <a href="http://www.mfeworld.com/" target="_blank">Flags: Later Birds, Flowers or Foods</a>
                     </li>
                     <br/>
                     <li>
-                        <a href="http://www.mywebbench.com/" target="_blank">My Web Bench and Virtual Community</a>
+                        <a href="http://www.mywebbench.com/" target="_blank">My Web Bench </a>
                     </li>
                     <br/>
                     <li>
-                        <a href="http://www.mfework.com/" target="_blank">One of a kind Resort or Villa</a>
+                        <a href="http://www.mfework.com/" target="_blank">Luxury Resorts or Villas</a>
                     </li>
                     <br/>
                     <li>
-                        <a href="http://www.mfeweb.com/mail" target="_blank">Work With MFE Mail</a>
+                        <a href="http://www.mfeweb.com/mail" target="_blank">MFE Mail</a>
                     </li>
                     <br/>
                     <li>
