@@ -27,7 +27,7 @@
                 <br/>
                 <ul class="ulListStyle">
                     <li>
-                        <a href="http://www.mfeworld.com/" target="_blank">Flags (Birds, Flowers and Foods..)</a>
+                        <a href="http://www.mfeworld.com/" target="_blank">Flags (Dogs, Birds and Flowers..)</a>
                     </li>
                     <br/>
                     <li>
