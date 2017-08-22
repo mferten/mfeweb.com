@@ -35,10 +35,6 @@
                     </li>
                     <br/>
                     <li>
-                        <a href="http://www.mfework.com/" target="_blank">Resorts and Villas</a>
-                    </li>
-                    <br/>
-                    <li>
                         <a href="http://www.mfeweb.com/mail" target="_blank">MFE Mail</a>
                     </li>
                     <br/>
