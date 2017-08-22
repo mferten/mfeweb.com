@@ -1,0 +1,13 @@
+body {
+    padding:100px;
+}
+
+ul li {
+    font-size:100px;
+    font-weight:bold;
+    color:black;
+}
+
+ul li:hover {
+    cursor:pointer;
+}
