@@ -14,11 +14,11 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="PHP/Laravel">
-        <meta name="keywords" content="MFE Sites by Mehmet F Erten">
+        <meta name="keywords" content="MFE Web Sites by Mehmet F Erten">
         <meta name="author" content="Mehmet Fatih Erten">
         <meta name="csrf-token" content="{{ csrf_token() }}">
         {{-- Title --}}
-        <title>@yield('title', 'MFE Sites')</title>
+        <title>@yield('title', 'MFE Web Sites')</title>
 
     </head>
 
@@ -31,7 +31,7 @@
 
         {{-- footer --}}
         <footer class="center">
-            <span>&copy; {{ date('Y') }} <span class="mfe">M</span>.<span class="mfe">F</span>.<span class="mfe">E</span>. Sites by Mehmet F Erten</span>
+            <span>&copy; {{ date('Y') }} <span class="mfe">M</span>.<span class="mfe">F</span>.<span class="mfe">E</span>. Web Sites by Mehmet F Erten</span>
             <br/>
         </footer>
 

@@ -4,18 +4,19 @@
         {{-- Beginning of the Header section --}}
         <header>
             <br/><br/>
-            <h1><span class="mfe">M</span>.<span class="mfe">F</span>.<span class="mfe">E</span> Sites
-            <div id="flags" class="center">
-                <img id="flag21" class="plainFlags vertialAlignMiddle"
-                    src="images/smallFlags/UnitedStatesofAmerica.png"
-                    alt="United States of America">
-                <img id="flag21" class="plainFlags vertialAlignMiddle"
-                    src="images/smallFlags/Turkey.png"
-                    alt="Turkey">
-                <img id="flag21" class="plainFlags vertialAlignMiddle"
-                    src="images/smallFlags/Slovakia.png"
-                    alt="Slovakia">
-            </div>
+            <h1><span class="mfe">M</span>.<span class="mfe">F</span>.<span class="mfe">E</span> Web Sites
+                <div id="flags" class="center">
+                    <img id="flag21" class="plainFlags vertialAlignMiddle"
+                        src="images/smallFlags/UnitedStatesofAmerica.png"
+                        alt="United States of America">
+                    <img id="flag21" class="plainFlags vertialAlignMiddle"
+                        src="images/smallFlags/Turkey.png"
+                        alt="Turkey">
+                    <img id="flag21" class="plainFlags vertialAlignMiddle"
+                        src="images/smallFlags/Slovakia.png"
+                        alt="Slovakia">
+                </div>
+                <span class="mfeOrange">In progress</span>
             </h1>
         </header>
 @endpush
@@ -53,6 +54,8 @@
                 <ul class="ulListStyle">
                     <li>
                         <span><span class="mfe">*1</span> Laravel/Elequent(ORM)/Ajax</span>
+                        <br/>
+                        <span class="mfeSmall">Within CentOS 7 Linux, Apache Web and iRedMail Mail Servers</span>
                     </li>
                     <br/>
                     <li>
