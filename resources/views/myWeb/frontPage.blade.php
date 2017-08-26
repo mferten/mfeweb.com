@@ -27,11 +27,18 @@
                 <br/>
                 <ul class="ulListStyle">
                     <li>
-                        <a href="http://www.mfeworld.com/" target="_blank">Flags (Dogs, Birds and Flowers..)</a>
+                        <a href="http://www.mfeworld.com/" target="_blank">Flags [(Dogs:Birds:Flowers]
+                            <span class="mfe">*1</span></a>
                     </li>
                     <br/>
                     <li>
-                        <a href="http://www.mywebbench.com/" target="_blank">My Web Bench</a>
+                        <a href="http://www.mywebbench.com/" target="_blank">My Web Bench
+                            <span class="mfe">*1</span></a>
+                    </li>
+                    <br/>
+                    <li>
+                        <a href="http://www.mfework.com/" target="_blank">My Resorts & Villas
+                            <span class="mfeOrange">*2</span></a>
                     </li>
                     <br/>
                     <li>
@@ -42,7 +49,19 @@
                         <a href="https://github.com/mferten" target="_blank">MFE GitHub</a>
                     </li>
                 </ul>
-                <br/><br/><br/><br/>
+                <br/>
+                <ul class="ulListStyle">
+                    <li>
+                        <span><span class="mfe">*1</span> Laravel/Elequent(ORM)/Ajax</span>
+                    </li>
+                    <br/>
+                    <li>
+                        <span><span class="mfeOrange">*2</span> JHipster/Spring MVC/Hibernate/JPA2(ORM)/Ajax</span>
+                        <br/>
+                        <span class="mfeSmall">Under Construction</span>
+                    </li>
+                </ul>
+                <br/><br/>
             </div>
         </div>
 @endpush
