@@ -48,11 +48,11 @@
                     </li>
                     <br/>
                     <li>
-                        <span><span class="mfe">*1</span> Laravel/Elequent(ORM)/Ajax</span><br/>
+                        <span class="mfe">*1 </span><span class="mfeMedium">-Laravel/Elequent(ORM)/Ajax</span><br/>
                         <span class="mfeSmall">Within CentOS 7 Linux, Apache Web and iRedMail Mail Servers</span>
                     </li>
                     <li>
-                        <span><span class="mfeOrange">*2</span> JHipster/Spring MVC/Hibernate/JPA2(ORM)/Ajax</span><br/>
+                        <span class="mfeOrange">*2 </span><span class="mfeMedium">-JHipster/Spring MVC/Hibernate/JPA2(ORM)/Ajax</span><br/>
                         <span class="mfeSmall">Under Construction</span>
                     </li>
                 </ul>

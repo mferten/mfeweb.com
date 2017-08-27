@@ -74,6 +74,10 @@ h2 {
     font-weight: bold;
 }
 
+li {
+    margin-bottom: 5px;
+}
+
 .mfe {
     color: red;
     font-weight: bold;
@@ -89,6 +93,11 @@ h2 {
 .mfeSmall {
     color: green;
     font-size: small;
+}
+
+.mfeMedium {
+    color: black;
+    font-size: medium;
 }
 
 .loginBP {
