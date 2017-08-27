@@ -4,7 +4,7 @@
         {{-- Beginning of the Header section --}}
         <header>
             <br/><br/>
-            <h1><span class="mfe">M</span>.<span class="mfe">F</span>.<span class="mfe">E</span> Web Sites
+            <h1><span>M.F.E Web Sites<span>
                 <div id="flags" class="center">
                     <img id="flag21" class="plainFlags vertialAlignMiddle"
                         src="images/smallFlags/UnitedStatesofAmerica.png"
@@ -28,15 +28,13 @@
                 <br/>
                 <ul class="ulListStyle">
                     <li>
-                        <a href="http://www.mfeworld.com/" target="_blank">Flags [(Dogs:Birds:Flowers]
+                        <a href="http://www.mfeworld.com/" target="_blank">Flags [Dogs:Birds:Flowers]
                             <span class="mfe">*1</span></a>
                     </li>
-                    <br/>
                     <li>
                         <a href="http://www.mywebbench.com/" target="_blank">My Web Bench
                             <span class="mfe">*1</span></a>
                     </li>
-                    <br/>
                     <li>
                         <a href="http://www.mfework.com/" target="_blank">My Resorts & Villas
                             <span class="mfeOrange">*2</span></a>
@@ -45,26 +43,20 @@
                     <li>
                         <a href="http://www.mfeweb.com/mail" target="_blank">MFE Mail</a>
                     </li>
-                    <br/>
                     <li>
                         <a href="https://github.com/mferten" target="_blank">MFE GitHub</a>
                     </li>
-                </ul>
-                <br/>
-                <ul class="ulListStyle">
-                    <li>
-                        <span><span class="mfe">*1</span> Laravel/Elequent(ORM)/Ajax</span>
-                        <br/>
-                        <span class="mfeSmall">Within CentOS 7 Linux, Apache Web and iRedMail Mail Servers</span>
-                    </li>
                     <br/>
                     <li>
-                        <span><span class="mfeOrange">*2</span> JHipster/Spring MVC/Hibernate/JPA2(ORM)/Ajax</span>
-                        <br/>
+                        <span><span class="mfe">*1</span> Laravel/Elequent(ORM)/Ajax</span><br/>
+                        <span class="mfeSmall">Within CentOS 7 Linux, Apache Web and iRedMail Mail Servers</span>
+                    </li>
+                    <li>
+                        <span><span class="mfeOrange">*2</span> JHipster/Spring MVC/Hibernate/JPA2(ORM)/Ajax</span><br/>
                         <span class="mfeSmall">Under Construction</span>
                     </li>
                 </ul>
-                <br/><br/>
+                <br/>
             </div>
         </div>
 @endpush
