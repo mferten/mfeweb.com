@@ -5,7 +5,7 @@
         <header>
             <br/><br/>
             <h1><span>M.F.E Web Sites<span>
-                <div id="flags" class="center">
+                <div id="flags" class="center mfeSmall">
                     <img id="flag21" class="plainFlags vertialAlignMiddle"
                         src="images/smallFlags/UnitedStatesofAmerica.png"
                         alt="United States of America">
