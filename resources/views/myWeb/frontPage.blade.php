@@ -52,7 +52,6 @@
                         <span class="mfeSmall">Under Construction</span>
                     </li>
                 </ul>
-                <br/>
             </div>
         </div>
 @endpush
