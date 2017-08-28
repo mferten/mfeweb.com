@@ -47,7 +47,7 @@
 }
 
 html {
-    font-family: "Lucida Sans", sans-serif;
+    font-family: 'Kaushan Script', cursive;
     /* have the scroll bar all the time */
     overflow-y: scroll;
 }
@@ -66,7 +66,6 @@ h1 {
     color: #1a0013;
     text-align: center;
     font-weight: bold;
-    font-family: 'Kaushan Script', cursive;
 }
 
 h2 {
@@ -75,16 +74,15 @@ h2 {
 }
 
 li {
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 
-.marginBottom20 {
-    margin-bottom: 20px;
+.marginBottom25 {
+    margin-bottom: 25px;
 }
 .mfe {
     color: red;
     font-weight: bold;
-    font-family: 'Kaushan Script', cursive;
 }
 
 .mfeOrange {

@@ -33,14 +33,14 @@
                         <a href="http://www.mywebbench.com/" target="_blank">My Web Bench
                             <span class="mfe">*1</span></a>
                     </li>
-                    <li class="marginBottom20">
+                    <li class="marginBottom25">
                         <a href="http://www.mfework.com/" target="_blank">My Resorts & Villas
                             <span class="mfeOrange">*2</span></a>
                     </li>
                     <li>
                         <a href="http://www.mfeweb.com/mail" target="_blank">MFE Mail</a>
                     </li>
-                    <li class="marginBottom20">
+                    <li class="marginBottom25">
                         <a href="https://github.com/mferten" target="_blank">MFE GitHub</a>
                     </li>
                     <li>
