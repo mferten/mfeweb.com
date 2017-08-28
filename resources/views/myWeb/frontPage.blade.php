@@ -6,13 +6,13 @@
             <br/><br/>
             <h1><span>M.F.E Web Sites<span>
                 <div id="flags" class="center mfeSmall">
-                    <img id="flag21" class="plainFlags vertialAlignMiddle"
+                    <img class="plainFlags vertialAlignMiddle"
                         src="images/smallFlags/UnitedStatesofAmerica.png"
                         alt="United States of America">
-                    <img id="flag21" class="plainFlags vertialAlignMiddle"
+                    <img class="plainFlags vertialAlignMiddle"
                         src="images/smallFlags/Turkey.png"
                         alt="Turkey">
-                    <img id="flag21" class="plainFlags vertialAlignMiddle"
+                    <img class="plainFlags vertialAlignMiddle"
                         src="images/smallFlags/Slovakia.png"
                         alt="Slovakia">
                 </div>
