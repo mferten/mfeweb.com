@@ -4,8 +4,8 @@
         {{-- Beginning of the Header section --}}
         <header>
             <br/><br/>
-            <h1><span>M.F.E Web Sites</span>
-                <div id="flags" class="center mfeSmall">
+            <h1>M.F.E Web Sites <span class="mfeOrange">In progress</span>
+                <h2 id="flags" class="center mfeSmall">
                     <img class="plainFlags vertialAlignMiddle"
                         src="images/smallFlags/UnitedStatesofAmerica.png"
                         alt="United States of America">
@@ -15,8 +15,7 @@
                     <img class="plainFlags vertialAlignMiddle"
                         src="images/smallFlags/Slovakia.png"
                         alt="Slovakia">
-                </div>
-                <span class="mfeOrange">In progress</span>
+                </h2>
             </h1>
         </header>
 @endpush
