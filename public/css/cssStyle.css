@@ -78,6 +78,9 @@ li {
     margin-bottom: 5px;
 }
 
+.marginBottom20 {
+    margin-bottom: 20px;
+}
 .mfe {
     color: red;
     font-weight: bold;

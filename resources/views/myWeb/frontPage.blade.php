@@ -4,18 +4,18 @@
         {{-- Beginning of the Header section --}}
         <header>
             <br/><br/>
-            <h1>M.F.E Web Sites <span class="mfeOrange">In progress</span></h1>
-            <h2 id="flags" class="center mfeSmall">
-                <img class="plainFlags vertialAlignMiddle"
+            <h1>M.F.E Web Sites <span class="mfeOrange">In progress</span>
+                <br/>
+                <img class="plainFlags vertialAlignMiddle center mfeSmall"
                     src="images/smallFlags/UnitedStatesofAmerica.png"
                     alt="United States of America">
-                <img class="plainFlags vertialAlignMiddle"
+                <img class="plainFlags vertialAlignMiddle center mfeSmall"
                     src="images/smallFlags/Turkey.png"
                     alt="Turkey">
-                <img class="plainFlags vertialAlignMiddle"
+                <img class="plainFlags vertialAlignMiddle center mfeSmall"
                     src="images/smallFlags/Slovakia.png"
                     alt="Slovakia">
-            </h2>
+</h1>
         </header>
 @endpush
 
@@ -33,18 +33,16 @@
                         <a href="http://www.mywebbench.com/" target="_blank">My Web Bench
                             <span class="mfe">*1</span></a>
                     </li>
-                    <li>
+                    <li class="marginBottom20">
                         <a href="http://www.mfework.com/" target="_blank">My Resorts & Villas
                             <span class="mfeOrange">*2</span></a>
                     </li>
-                    <br/>
                     <li>
                         <a href="http://www.mfeweb.com/mail" target="_blank">MFE Mail</a>
                     </li>
-                    <li>
+                    <li class="marginBottom20">
                         <a href="https://github.com/mferten" target="_blank">MFE GitHub</a>
                     </li>
-                    <br/>
                     <li>
                         <span class="mfe">*1 </span><span class="mfeMedium">-Laravel/Elequent(ORM)/Ajax</span><br/>
                         <span class="mfeSmall">Within CentOS 7 Linux, Apache Web and iRedMail Mail Servers</span>
