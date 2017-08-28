@@ -15,7 +15,7 @@
                 <img class="plainFlags vertialAlignMiddle center mfeSmall"
                     src="images/smallFlags/Slovakia.png"
                     alt="Slovakia">
-</h1>
+            </h1>
         </header>
 @endpush
 
