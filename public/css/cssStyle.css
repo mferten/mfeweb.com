@@ -73,7 +73,7 @@ h2 {
     font-weight: bold;
 }
 
-li {
+li, .marginSpanBottom {
     margin-bottom: 10px;
 }
 
@@ -128,6 +128,25 @@ li {
 
 .ulListStyle {
     list-style-type: square;
+}
+
+.floatingInput {
+    float: left;
+}
+
+.floatingRightInput {
+    float: right;
+}
+
+.inputTopMarginFlags {
+    clear: left;
+    margin-top: 10px;
+}
+
+.inputTopMargin {
+    padding-top: 30px;
+    clear: left;
+    margin: 35px;
 }
 
 #flags {
