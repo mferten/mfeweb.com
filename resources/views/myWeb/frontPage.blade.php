@@ -45,11 +45,11 @@
             </nav>
 
             <div class="inputTopMargin">
-                <p class="floatingInput"><span class="mfe">*1</span>&nbsp
+                <p class="floatingInput"><span class="mfe">*1&nbsp;</span>
                     <span class="mfeMedium">-Laravel/Elequent(ORM)/Ajax</span>
                     <span class="mfeSmall">Within CentOS 7 Linux, Apache Web and iRedMail Mail Servers</span>
                 </p>
-                <p class="floatingRightInput"><span class="mfeOrange">*2</span>&nbsp
+                <p class="floatingRightInput"><span class="mfeOrange">*2&nbsp;</span>
                     <span class="mfeMedium">-JHipster/Spring MVC/Hibernate/JPA2(ORM)/Ajax</span>
                     <span class="mfeSmall">Under Construction</span>
                 </p>
