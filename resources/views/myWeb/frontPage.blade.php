@@ -4,9 +4,9 @@
         {{-- Beginning of the Header section --}}
         <header>
             <br/><br/> <!-- make this as padding ! -->
-            <artical class="inputTopMarginFlags">
-            <h1>M.F.E Web Sites <span class="mfeOrange">In progress</span>
 
+            <h1>M.F.E Web Sites <span class="mfeOrange">In progress</span>
+<p class="inputTopMarginFlags">
                     <img class="plainFlags vertialAlignMiddle center mfeSmall"
                         src="images/smallFlags/UnitedStatesofAmerica.png"
                         alt="United States of America">
@@ -16,8 +16,8 @@
                     <img class="plainFlags vertialAlignMiddle center mfeSmall"
                         src="images/smallFlags/Slovakia.png"
                         alt="Slovakia">
-                        </h1>
-                </artical>
+      </p>                 
+            </h1>
 
         </header>
 @endpush
