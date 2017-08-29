@@ -20,7 +20,7 @@
 
 @push('module')
         {{-- Beginning of the My Sites Link List --}}
-        <section class="row loginBP">
+        <div class="row loginBP">
             <nav class="frontPageMarginLeft">
                 <ul class="inputTopMargin ulListStyle">
                     <li>
@@ -54,7 +54,7 @@
                     <span class="mfeSmall">Under Construction</span>
                 </p>
             </div>
-        </section>
+        </div>
 @endpush
 
 @push('jsFiles')
