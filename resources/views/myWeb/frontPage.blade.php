@@ -3,9 +3,9 @@
 @push('header')
         {{-- Beginning of the Header section --}}
         <header>
-            <br/><br/> <!-- make this a margin ! -->
+            <br/><br/> <!-- make this as padding ! -->
             <h1>M.F.E Web Sites <span class="mfeOrange">In progress</span>
-                <section class="inputTopMarginFlags">
+                <artical class="inputTopMarginFlags">
                     <img class="plainFlags vertialAlignMiddle center mfeSmall"
                         src="images/smallFlags/UnitedStatesofAmerica.png"
                         alt="United States of America">
@@ -15,7 +15,7 @@
                     <img class="plainFlags vertialAlignMiddle center mfeSmall"
                         src="images/smallFlags/Slovakia.png"
                         alt="Slovakia">
-                </section>
+                </artical>
             </h1>
         </header>
 @endpush
