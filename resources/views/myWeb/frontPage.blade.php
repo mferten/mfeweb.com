@@ -43,7 +43,6 @@
                     </li>
                 </ul>
             </nav>
-
             <div class="inputTopMargin">
                 <p class="floatingInput"><span class="mfe">*1&nbsp;</span>
                     <span class="mfeMedium">-Laravel/Elequent(ORM)/Ajax</span>
