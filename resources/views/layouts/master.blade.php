@@ -30,7 +30,7 @@
         @stack('module')
 
         {{-- footer --}}
-        <footer class="center">
+        <footer>
             <span>&copy; {{ date('Y') }} <span class="mfe">M</span>.<span class="mfe">F</span>.<span class="mfe">E</span>. Web Sites by Mehmet F Erten</span>
             <br/>
         </footer>

@@ -1,105 +1,84 @@
+/* Start: Paul Irish Box Model */
 * {
     box-sizing: border-box;
 }
 
-/* For mobile phones: */
-[class*="col-"] {
-    width: 100%;
+*, *:before, *::after {
+    box-sizing: inherit;
+}
+/* End: Box Model */
+
+/* Start: Google latin-ext */
+@font-face {
+  font-family: 'Kaushan Script';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Kaushan Script'), local('KaushanScript-Regular'), url(/fonts/qx1LSqts-NtiKcLw4N03IO87R-l0-Xx_7cYc0ZX1ifE.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
 }
 
-[class*="col-"] {
-    float: left;
-    padding: 10px;
+/* latin */
+@font-face {
+  font-family: 'Kaushan Script';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Kaushan Script'), local('KaushanScript-Regular'), url(/fonts/qx1LSqts-NtiKcLw4N03IEd0sm1ffa_JvZxsF_BEwQk.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
 }
-
-@media only screen and (min-width: 768px) {
-    /* For desktop: */
-    .col-1 {width: 8.33%;}
-    .col-2 {width: 16.66%;}
-    .col-3 {width: 25%;}
-    .col-4 {width: 33.33%;}
-    .col-5 {width: 41.66%;}
-    .col-6 {width: 50%;}
-    .col-7 {width: 58.33%;}
-    .col-8 {width: 66.66%;}
-    .col-9 {width: 75%;}
-    .col-10 {width: 83.33%;}
-    .col-11 {width: 91.66%;}
-    .col-12 {width: 100%;}
-}
-
-@media only screen and (max-width: 500px) {
-    body {
-        background-color:lightblue;
-    }
-}
-
-@media print {
-    body {font-size: 11pt; }
-    div.navigation { display: none; }
-    hr { page-break-after: always; }
-}
-
-.row::after {
-    content: "";
-    clear: both;
-    display: block;
-}
+/* End: Google Latin */
 
 html {
-    font-family: 'Kaushan Script', cursive;
+    font-family: Arial, Helvetica, "Lucida Sans", sans-serif;
     /* have the scroll bar all the time */
     overflow-y: scroll;
 }
 
 body {
-    background-image: url("/images/OlympicRings.png"),
-                      url("/images/apache_pb.png"),
-                      url("/images/centosBlue.png");
+    display: grid;
+    background-image: url("/images/Flag_of_Olympic.svg"),
+                      url("/images/asf_logo.svg"),
+                      url("/images/CentOS_Graphical_Symbol.svg");
     background-repeat: no-repeat, no-repeat, no-repeat;
-    background-position: left top, center 2px, right top;
-    background-size: 100px, 160px, 70px;
-    /* background-color: #3397b0; */
+    background-position: left top, center .02rem, right top;
+    background-size: 9rem, 7rem, 7rem;
+    margin: 2% auto;
 }
 
-h1 {
+h1, h2, h3, h4 {
     color: #1a0013;
     text-align: center;
-    font-weight: bold;
-    padding-top: 1em;
-}
-
-h2 {
-    text-align: center;
-    font-weight: bold;
-}
-
-li, .marginSpanBottom {
-    margin-bottom: 10px;
-}
-
-.marginLiBottom {
-    margin-bottom: 25px;
-}
-.mfe {
-    color: red;
-    font-weight: bold;
-}
-
-.mfeOrange {
-    color: orange;
     font-weight: bold;
     font-family: 'Kaushan Script', cursive;
 }
 
+h1 {
+    margin: 3rem 0 1rem 0;
+}
+
+nav {
+    margin: 4% 30%;
+}
+
+ul li {
+    margin: 1rem;
+}
+
+article {
+    margin: 4rem 15rem;
+}
+
+footer {
+    text-align: center;
+}
+
 .mfeSmall {
-    color: green;
     font-size: small;
+    font-weight: bold;
 }
 
 .mfeMedium {
-    color: black;
     font-size: medium;
+    font-weight: bold;
 }
 
 .loginBP {
@@ -108,48 +87,15 @@ li, .marginSpanBottom {
     background-repeat: no-repeat;
     background-position: left top, right top;
     background-size: 33%, 33%;
-    margin-top: 5px;
+    margin-top: .3rem;
     font-weight: bold;
     font-size: 16pt;
-}
-
-.plainFlags {
-    width: 50px;
-    height: 40px;
-    border: 2px solid gray;
-}
-
-.frontPageMarginLeft {
-    margin-left: 34%;
-}
-.center
-{
-    text-align: center;
 }
 
 .ulListStyle {
     list-style-type: square;
 }
 
-.floatingInput {
-    float: left;
-}
-
-.floatingRightInput {
-    float: right;
-}
-
-.inputTopMarginFlags {
-    clear: left;
-    margin-top: 10px;
-}
-
-.inputTopMargin {
-    padding-top: 30px;
-    clear: left;
-    margin: 35px;
-}
-
-#flags {
-    padding-top: 5px;
+.superScript {
+    vertical-align: super;
 }
