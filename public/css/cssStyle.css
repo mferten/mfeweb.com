@@ -64,7 +64,7 @@ ul li {
 }
 
 article {
-    margin: 4rem 15rem;
+    text-align: center;
 }
 
 footer {
@@ -98,4 +98,14 @@ footer {
 
 .superScript {
     vertical-align: super;
+}
+
+@media (min-width: 1px) and (max-width: 650px) {
+    header {
+        margin: 35% 5% 5%;
+    }
+
+    nav {
+        margin: 24% 5%;
+    }
 }
