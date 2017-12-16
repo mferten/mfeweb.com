@@ -40,7 +40,7 @@ body {
                       url("/images/CentOS_Graphical_Symbol.svg");
     background-repeat: no-repeat, no-repeat, no-repeat;
     background-position: left top, center .02rem, right top;
-    background-size: 9rem, 7rem, 7rem;
+    background-size: 14rem, 7rem, 7rem;
     margin: 2% auto;
 }
 
@@ -52,7 +52,7 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-    margin: 3rem 0 1rem 0;
+    margin: 4rem 0 1rem 0;
 }
 
 nav {
@@ -85,8 +85,8 @@ footer {
     background-image: url("/images/njgoldfinch.jpg"),
                       url("/images/njgoldfinchleft.jpg");
     background-repeat: no-repeat;
-    background-position: left top, right top;
-    background-size: 33%, 33%;
+    background-position: left center, right center;
+    background-size: 25%, 25%;
     margin-top: .3rem;
     font-weight: bold;
     font-size: 16pt;
@@ -107,5 +107,9 @@ footer {
 
     nav {
         margin: 24% 5%;
+    }
+
+    body {
+        background-size: 6rem, 5rem, 5rem;
     }
 }
