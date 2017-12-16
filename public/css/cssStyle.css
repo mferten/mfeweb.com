@@ -102,11 +102,11 @@ footer {
 
 @media (min-width: 1px) and (max-width: 650px) {
     header {
-        margin: 35% 5% 5%;
+        margin: 5%;
     }
 
     nav {
-        margin: 24% 5%;
+        margin: 4% 5%;
     }
 
     body {
