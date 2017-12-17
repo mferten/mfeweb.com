@@ -39,8 +39,8 @@ body {
                       url("/images/asf_logo.svg"),
                       url("/images/CentOS_Graphical_Symbol.svg");
     background-repeat: no-repeat, no-repeat, no-repeat;
-    background-position: -1.5rem -2rem, center .02rem, right top;
-    background-size: 14rem, 11rem, 7rem;
+    background-position: -.5rem -1rem, center .02rem, right top;
+    background-size: 7rem, 5rem, 4rem;
     margin: 2% auto;
     font-weight: bold;
     font-size: 1.7rem;
@@ -126,5 +126,9 @@ p {
         background-size: 8rem, 7rem, 6rem;
         background-position: left top, center .02rem, right top;
         font-size: 1rem;
+    }
+
+    a {
+        font-size: .9rem;
     }
 }
