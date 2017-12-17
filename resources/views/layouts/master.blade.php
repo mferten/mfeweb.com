@@ -1,9 +1,7 @@
 @stack('logic')
 <!DOCTYPE html>
 <html lang="en">
-
     <head>
-
         <!-- Head: meta, title, link, script statements -->
         <link rel="icon" href="images/favicon.ico" type="image/x-icon">
         {{-- css files --}}
@@ -19,24 +17,17 @@
         <meta name="csrf-token" content="{{ csrf_token() }}">
         {{-- Title --}}
         <title>@yield('title', 'MFE Web Sites')</title>
-
     </head>
-
     <body>
         {{-- header --}}
         @stack('header')
-
         {{-- module --}}
         @stack('module')
-
         {{-- footer --}}
         <footer>
-            <span>&copy; {{ date('Y') }} <span class="mfe">M</span>.<span class="mfe">F</span>.<span class="mfe">E</span>. Web Sites by Mehmet F Erten</span>
+            <span>&copy; {{ date('Y') }} M.F.E. Web Sites by Mehmet F Erten</span>
             <br/>
         </footer>
-
         @stack('jsFiles')
-
     </body>
-
 </html>

@@ -42,6 +42,8 @@ body {
     background-position: left top, center .02rem, right top;
     background-size: 14rem, 7rem, 7rem;
     margin: 2% auto;
+    font-weight: bold;
+    font-size: 1.3rem;    
 }
 
 h1, h2, h3, h4 {
@@ -56,7 +58,7 @@ h1 {
 }
 
 nav {
-    margin: 4% 30%;
+    text-align: center;
 }
 
 ul li {
@@ -81,17 +83,6 @@ footer {
     font-weight: bold;
 }
 
-.loginBP {
-    background-image: url("/images/njgoldfinch.jpg"),
-                      url("/images/njgoldfinchleft.jpg");
-    background-repeat: no-repeat;
-    background-position: left center, right center;
-    background-size: 25%, 25%;
-    margin-top: .3rem;
-    font-weight: bold;
-    font-size: 16pt;
-}
-
 .ulListStyle {
     list-style-type: square;
 }
@@ -103,10 +94,6 @@ footer {
 @media (min-width: 1px) and (max-width: 650px) {
     header {
         margin: 5%;
-    }
-
-    nav {
-        margin: 4% 5%;
     }
 
     body {

@@ -1,15 +1,13 @@
 @extends('layouts.master')
-
 @push('header')
-        {{-- Beginning of the Header section --}}
+<!-- place holder -->
         <header>
             <h1>M.F.E Web Sites</h1>
         </header>
 @endpush
-
 @push('module')
-        {{-- Beginning of the My Sites Link List --}}
-        <main class="loginBP">
+<!-- place holder -->
+        <main>
             <nav class="frontPageMarginLeft">
                 <ul class="inputTopMargin ulListStyle">
                     <li>
@@ -17,18 +15,21 @@
                             <span class="superScript mfeSmall">*1</span></a>
                     </li>
                     <li>
-                        <a href="http://www.mywebbench.com/" target="_blank">My Web Bench
-                            <span class="superScript mfeSmall">*1</span></a>
-                    </li>
-                    <li class="marginLiBottom">
                         <a href="http://www.mfework.com/" target="_blank">My Resorts & Villas
                             <span class="superScript mfeSmall">*2</span></a>
                     </li>
                     <li>
-                        <a href="http://www.mfeweb.com/mail" target="_blank">MFE Mail</a>
+                        <a href="http://www.mywebbench.com/" target="_blank">My Web Bench
+                            <span class="superScript mfeSmall">*1</span></a>
                     </li>
-                    <li class="marginLiBottom">
+                    <li>
+                        <a href="http://www.mfeworld.com/citations" target="_blank">MFE Citations</a>
+                    </li>
+                    <li>
                         <a href="https://github.com/mferten" target="_blank">MFE GitHub</a>
+                    </li>
+                    <li>
+                        <a href="http://www.mfeweb.com/mail" target="_blank">MFE Mail</a>
                     </li>
                 </ul>
             </nav>
