@@ -39,11 +39,11 @@ body {
                       url("/images/asf_logo.svg"),
                       url("/images/CentOS_Graphical_Symbol.svg");
     background-repeat: no-repeat, no-repeat, no-repeat;
-    background-position: left top, center .02rem, right top;
+    background-position: -1.5rem -2rem, center .02rem, right top;
     background-size: 14rem, 7rem, 7rem;
     margin: 2% auto;
     font-weight: bold;
-    font-size: 1.3rem;    
+    font-size: 1.3rem;
 }
 
 h1, h2, h3, h4 {
@@ -84,7 +84,8 @@ footer {
 }
 
 .ulListStyle {
-    list-style-type: square;
+    list-style-type: none;
+    padding: 0;
 }
 
 .superScript {

@@ -9,7 +9,7 @@
 <!-- place holder -->
         <main>
             <nav class="frontPageMarginLeft">
-                <ul class="inputTopMargin ulListStyle">
+                <ul class="ulListStyle">
                     <li>
                         <a href="http://www.mfeworld.com/" target="_blank">Flags [Dogs:Birds:Flowers]
                             <span class="superScript mfeSmall">*1</span></a>
