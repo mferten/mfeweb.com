@@ -40,10 +40,10 @@ body {
                       url("/images/CentOS_Graphical_Symbol.svg");
     background-repeat: no-repeat, no-repeat, no-repeat;
     background-position: -1.5rem -2rem, center .02rem, right top;
-    background-size: 14rem, 7rem, 7rem;
+    background-size: 14rem, 11rem, 7rem;
     margin: 2% auto;
     font-weight: bold;
-    font-size: 1.3rem;
+    font-size: 1.7rem;
 }
 
 h1, h2, h3, h4, footer {
@@ -62,7 +62,15 @@ nav {
 }
 
 ul li {
-    margin: 1rem;
+    margin: 1.7rem;
+}
+
+a {
+    border-width: .4rem;
+    border-color: white;
+    padding: .3rem;
+    background-color: wheat;
+    border-style: outset;
 }
 
 article {
@@ -75,6 +83,21 @@ footer {
 
 p {
     margin: 0;
+}
+
+/* default for a button background and text color */
+a {
+    box-shadow: 1rem 1.3rem 1.5rem .2rem #813838;
+}
+
+a:hover {
+    background-color: #282828;
+    color: papayaWhip;
+}
+
+a:focus {
+    /* To give a little highlight on active elements */
+    border-color: blue;
 }
 
 .mfeSmall {
