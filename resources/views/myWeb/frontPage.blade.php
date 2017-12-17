@@ -11,25 +11,25 @@
             <nav class="frontPageMarginLeft">
                 <ul class="ulListStyle">
                     <li>
-                        <a href="http://www.mfeworld.com/" target="_blank">Flags [Dogs:Birds:Flowers]
+                        <a href="http://www.mfeworld.com/" target="_blank">- Flags [Dogs:Birds:Flowers]
                             <span class="superScript mfeSmall">*1</span></a>
                     </li>
                     <li>
-                        <a href="http://www.mfework.com/" target="_blank">My Resorts & Villas
+                        <a href="http://www.mfework.com/" target="_blank">- My Resorts & Villas
                             <span class="superScript mfeSmall">*2</span></a>
                     </li>
                     <li>
-                        <a href="http://www.mywebbench.com/" target="_blank">My Web Bench
+                        <a href="http://www.mywebbench.com/" target="_blank">- My Web Bench
                             <span class="superScript mfeSmall">*1</span></a>
                     </li>
                     <li>
-                        <a href="http://www.mfeworld.com/citations" target="_blank">MFE Citations</a>
+                        <a href="http://www.mfeworld.com/citations" target="_blank">~ MFE Citations</a>
                     </li>
                     <li>
-                        <a href="https://github.com/mferten" target="_blank">MFE GitHub</a>
+                        <a href="https://github.com/mferten" target="_blank">~ MFE GitHub</a>
                     </li>
                     <li>
-                        <a href="http://www.mfeweb.com/mail" target="_blank">MFE Mail</a>
+                        <a href="http://www.mfeweb.com/mail" target="_blank">~ MFE Mail</a>
                     </li>
                 </ul>
             </nav>
