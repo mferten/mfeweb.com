@@ -43,7 +43,7 @@ body {
     background-size: 7rem, 5rem, 4rem;
     margin: 2% auto;
     font-weight: bold;
-    font-size: 1.7rem;
+    font-size: 1.5rem;
 }
 
 h1, h2, h3, h4, footer {
@@ -62,11 +62,11 @@ nav {
 }
 
 ul li {
-    margin: 1.6rem;
+    margin: 1.8rem;
 }
 
 a {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     border-width: .4rem;
     border-color: white;
     padding: .3rem;
@@ -77,13 +77,13 @@ a {
 
 a:hover {
     background-color: #282828;
-    box-shadow: .1rem 1.3rem 1.5rem .2rem #14aa10;
+    box-shadow: .1rem 1.3rem 1.5rem .2rem #75aa10;
     color: papayaWhip;
 }
 
 a:focus {
     /* To give a little highlight on active elements */
-    border-color: blue;
+    border-color: red;
 }
 
 article {
@@ -115,6 +115,18 @@ p {
 
 .superScript {
     vertical-align: super;
+    color: blue;
+    background-color: white;
+    font-weight: bold;
+}
+
+#id_DateTime {
+    margin: 1rem;
+    color: black;
+    font-size: 1.1rem;
+    font-family: Arial, Helvetica, "Lucida Sans", sans-serif;
+    background-color: lightgray;
+    margin: 1rem 40%;
 }
 
 @media (min-width: 1px) and (max-width: 650px) {

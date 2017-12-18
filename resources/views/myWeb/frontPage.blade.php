@@ -3,6 +3,7 @@
 <!-- place holder -->
         <header>
             <h1>M.F.E Web Sites</h1>
+            <h2 id="id_DateTime"></h2>
         </header>
 @endpush
 @push('module')
@@ -11,16 +12,12 @@
             <nav class="frontPageMarginLeft">
                 <ul class="ulListStyle">
                     <li>
-                        <a href="http://www.mfeworld.com/" target="_blank">- Flags [Dogs:Birds:Flowers]
+                        <a href="http://www.mfeworld.com/" target="_blank">- Flags [Dogs, Birds: Prototype]
                             <span class="superScript mfeSmall">*1</span></a>
                     </li>
                     <li>
                         <a href="http://www.mfework.com/" target="_blank">- My Resorts & Villas
                             <span class="superScript mfeSmall">*2</span></a>
-                    </li>
-                    <li>
-                        <a href="http://www.mywebbench.com/" target="_blank">- My Web Bench
-                            <span class="superScript mfeSmall">*1</span></a>
                     </li>
                     <li>
                         <a href="http://www.mfeworld.com/citations" target="_blank">~ MFE Citations</a>
@@ -48,5 +45,6 @@
 @endpush
 
 @push('jsFiles')
-
+<!-- place holder -->
+        <script src="js/mfeweb.js"></script>
 @endpush

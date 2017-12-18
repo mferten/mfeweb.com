@@ -26,7 +26,6 @@
         {{-- footer --}}
         <footer>
             <span>&copy; {{ date('Y') }} M.F.E. Web Sites by Mehmet F Erten</span>
-            <br/>
         </footer>
         @stack('jsFiles')
     </body>
