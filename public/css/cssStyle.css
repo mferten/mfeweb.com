@@ -124,12 +124,16 @@ p {
 }
 
 #id_DateTime {
-    margin: 1rem;
     color: black;
     font-size: 1.1rem;
     font-family: Arial, Helvetica, "Lucida Sans", sans-serif;
-    background-color: lightgray;
     margin: 1rem 40%;
+    border-width: .3rem;
+    border-color: white;
+    padding: .1rem;
+    background-color: #9a9191;
+    border-style: outset;
+    box-shadow: .1rem .3rem 1rem .2rem #f5b4b4;
 }
 
 @media (min-width: 1px) and (max-width: 650px) {
