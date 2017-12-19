@@ -124,13 +124,13 @@ p {
 }
 
 #id_DateTime {
-    color: #b9ef7f;
-    font-size: 1.1rem;
+    color: #f5b4b4;
+    font-size: 1.5rem;
     font-family: Arial, Helvetica, "Lucida Sans", sans-serif;
     margin: 1rem 40%;
     border-width: .3rem;
     border-color: white;
-    padding: .1rem;
+    padding: 1rem;
     background-color: #190623;
     border-style: outset;
     box-shadow: .1rem .3rem 1rem .2rem #f5b4b4;
