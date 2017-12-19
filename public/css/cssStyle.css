@@ -39,15 +39,16 @@ body {
                       url("/images/asf_logo.svg"),
                       url("/images/CentOS_Graphical_Symbol.svg");
     background-repeat: no-repeat, no-repeat, no-repeat;
-    background-position: -.5rem -1rem, center .02rem, right top;
-    background-size: 7rem, 5rem, 4rem;
+    background-position: left top, center top, right top;
+    background-size: 4rem, 5rem, 4rem;
     margin: 2% auto;
     font-weight: bold;
     font-size: 1.3rem;
+    background-color: #190623;
 }
 
 h1, h2, h3, h4, footer {
-    color: #1a0013;
+    color: #b9ef7f;
     text-align: center;
     font-weight: bold;
     font-family: 'Kaushan Script', cursive;
@@ -101,11 +102,13 @@ p {
 .mfeSmall {
     font-size: small;
     font-weight: bold;
+    color: #b1c5b2;
 }
 
 .mfeMedium {
     font-size: medium;
     font-weight: bold;
+    color: #b1c5b2;
 }
 
 .ulListStyle {
