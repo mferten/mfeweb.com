@@ -25,7 +25,7 @@
         @stack('module')
         {{-- footer --}}
         <footer>
-            <span>&copy; {{ date('Y') }} M.F.E. Web Sites by Mehmet F Erten</span>
+            <span>&copy; {{ date('Y') }} Mehmet F Erten</span>
         </footer>
         @stack('jsFiles')
     </body>
