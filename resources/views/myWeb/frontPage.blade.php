@@ -3,7 +3,7 @@
 <!-- place holder -->
         <header>
             <h1>M.F.E Web Sites</h1>
-            <h2 id="id_DateTime"></h2>
+            <h2 id="id_DateTime">Date and Time</h2>
         </header>
 @endpush
 @push('module')
