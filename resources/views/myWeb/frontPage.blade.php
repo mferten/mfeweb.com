@@ -12,11 +12,11 @@
             <nav class="frontPageMarginLeft">
                 <ul class="ulListStyle">
                     <li>
-                        <a href="http://www.mfeworld.com/" target="_blank">- Flags [Dogs, Birds: Prototype]
+                        <a href="http://www.mfeworld.com/" target="_blank">- Flags of the World Countries
                             <span class="superScript mfeSmall">*1</span></a>
                     </li>
                     <li>
-                        <a href="http://www.mfework.com/" target="_blank">- My Resorts & Villas
+                        <a href="http://www.mfework.com/" target="_blank">- Flags of the United States
                             <span class="superScript mfeSmall">*2</span></a>
                     </li>
                     <li>
@@ -33,8 +33,7 @@
             <article>
                 <h2>In Progress</h2>
                 <p><span class="superScript mfeSmall">*1&nbsp;</span>
-                    <span class="mfeMedium">-Laravel/Elequent(ORM)/Ajax</span>
-                    <span class="mfeSmall">Within CentOS 7 Linux, Apache Web and iRedMail Mail Servers</span>
+                    <span class="mfeMedium">-[Prototype] Laravel/Elequent(ORM)/Ajax</span>
                 </p>
                 <p><span class="superScript mfeSmall">*2&nbsp;</span>
                     <span class="mfeMedium">-JHipster/Spring MVC/Hibernate/JPA2(ORM)/Ajax</span>
