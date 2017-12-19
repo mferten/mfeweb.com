@@ -36,7 +36,7 @@
                     <span class="mfeMedium">-[Prototype] Laravel/Elequent(ORM)/Ajax</span>
                 </p>
                 <p><span class="superScript mfeSmall">*2&nbsp;</span>
-                    <span class="mfeMedium">-JHipster/Spring MVC/Hibernate/JPA2(ORM)/Ajax</span>
+                    <span class="mfeMedium">-Spring MVC/Hibernate/JPA2(ORM)/Ajax</span>
                     <span class="mfeSmall">Under Construction</span>
                 </p>
             </article>
