@@ -72,7 +72,7 @@ a {
     padding: .1rem;
     background-color: wheat;
     border-style: outset;
-    box-shadow: .1rem 1.3rem 1.5rem .2rem #813838;
+    box-shadow: .1rem 1.3rem 1.5rem .2rem #f5b4b4;
 }
 
 a:hover {
@@ -83,7 +83,7 @@ a:hover {
 
 a:focus {
     /* To give a little highlight on active elements */
-    border-color: red;
+    border-color: orange;
 }
 
 article {
