@@ -35,12 +35,11 @@ html {
 
 body {
     display: grid;
-    background-image: url("/images/Flag_of_Olympic.svg"),
-                      url("/images/asf_logo.svg"),
+    background-image: url("/images/Apache_PoweredBy.svg"),
                       url("/images/CentOS_Graphical_Symbol.svg");
-    background-repeat: no-repeat, no-repeat, no-repeat;
-    background-position: left top, center top, right top;
-    background-size: 4rem, 5rem, 4rem;
+    background-repeat: no-repeat, no-repeat;
+    background-position: left top, right top;
+    background-size: 5rem, 5rem;
     margin: 2% auto;
     font-weight: bold;
     font-size: 1.3rem;
@@ -73,7 +72,7 @@ a {
     padding: .1rem;
     background-color: wheat;
     border-style: outset;
-    box-shadow: .1rem 1.3rem 1.5rem .2rem #f5b4b4;
+    box-shadow: .1rem 1.3rem 1.5rem .2rem #5d4355;
 }
 
 a:hover {
@@ -125,7 +124,7 @@ p {
 
 #id_DateTime {
     color: #f5b4b4;
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     font-family: Arial, Helvetica, "Lucida Sans", sans-serif;
     margin: 1rem 40%;
     border-width: .3rem;

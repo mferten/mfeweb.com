@@ -9,14 +9,14 @@
 @push('module')
 <!-- place holder -->
         <main>
-            <nav class="frontPageMarginLeft">
+            <nav>
                 <ul class="ulListStyle">
                     <li>
-                        <a href="http://www.mfeworld.com/" target="_blank">- Flags of the World Countries
+                        <a href="http://www.mfeworld.com/" target="_blank">- Flags:: World Countries
                             <span class="superScript mfeSmall">*1</span></a>
                     </li>
                     <li>
-                        <a href="http://www.mfework.com/" target="_blank">- Flags of the United States
+                        <a href="http://www.mfework.com/" target="_blank">- Flags:: U.S.A. States
                             <span class="superScript mfeSmall">*2</span></a>
                     </li>
                     <li>
