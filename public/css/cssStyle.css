@@ -149,6 +149,12 @@ p {
     }
 
     #id_DateTime {
-        margin: .3rem 5%;
+        margin: 0 9%;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    #id_DateTime {
+        margin: .3rem 37%;
     }
 }
