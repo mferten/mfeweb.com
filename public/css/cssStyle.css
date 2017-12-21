@@ -77,13 +77,13 @@ a {
 
 a:hover {
     background-color: #282828;
-    box-shadow: .1rem 1.3rem 1.5rem .2rem #75aa10;
+    box-shadow: .1rem 1.3rem 1.5rem .2rem #de00ff;
     color: papayaWhip;
 }
 
 a:focus {
     /* To give a little highlight on active elements */
-    border-color: orange;
+    border-color: #de00ff;
 }
 
 article {
