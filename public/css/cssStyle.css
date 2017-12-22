@@ -170,3 +170,9 @@ p {
         margin: .3rem 37%;
     }
 }
+
+@media (min-width: 1201px) and (max-width: 1263px) {
+    #id_DateTime {
+        margin: 1rem 41%;
+    }
+}
