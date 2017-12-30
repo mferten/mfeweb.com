@@ -126,7 +126,7 @@ p {
     color: #f5b4b4;
     font-size: 1.3rem;
     font-family: Arial, Helvetica, "Lucida Sans", sans-serif;
-    margin: 1rem 43%;
+    margin: 0 42%;
     border-width: .3rem;
     border-color: white;
     padding: 1rem;
@@ -155,7 +155,7 @@ p {
     }
 
     #id_DateTime {
-        margin: 0 10%;
+        margin: 0 9%;
     }
 }
 
@@ -165,14 +165,8 @@ p {
     }
 }
 
-@media (min-width: 770px) and (max-width: 1200px) {
+@media (min-width: 770px) and (max-width: 1450px) {
     #id_DateTime {
-        margin: .3rem 37%;
-    }
-}
-
-@media (min-width: 1201px) and (max-width: 1263px) {
-    #id_DateTime {
-        margin: 1rem 41%;
+        margin: 0 36%;
     }
 }
