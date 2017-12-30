@@ -12,15 +12,15 @@
             <nav>
                 <ul class="ulListStyle">
                     <li>
-                        <a href="http://www.mfeworld.com/" target="_blank">Flags: the World Countries - Prototype
+                        <a href="http://www.mfeworld.com/" target="_blank">Play and Search our Flags & Countries
                             <span class="superScript mfeSmall">*1</span></a>
                     </li>
                     <li>
-                        <a href="http://www.mfework.com/" target="_blank">Slovakia: The Language and the Country
+                        <a href="http://www.mfework.com/" target="_blank">Muğla, my Aegean & Mediterranean
                             <span class="superScript mfeSmall">*2</span></a>
                     </li>
                     <li>
-                        <a href="http://www.mfework.com/" target="_blank">Muğla: The Aegean with the Mediterranean
+                        <a href="http://www.mfework.com/" target="_blank">Slovakia, my Central Europe
                             <span class="superScript mfeSmall">*2</span></a>
                     </li>
                     <li>
