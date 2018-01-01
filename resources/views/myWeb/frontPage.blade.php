@@ -12,11 +12,15 @@
             <nav>
                 <ul class="ulListStyle">
                     <li>
-                        <a href="http://www.mfeworld.com/" target="_blank">Play & Search: World Flags & Countries
+                        <a href="http://www.mfeworld.com/" target="_blank">World Flags & Countries: Play & Search
                             <span class="superScript mfeSmall">*1</span></a>
                     </li>
                     <li>
-                        <a href="http://www.mfework.com/" target="_blank">Play & Search Slovakia
+                        <a href="http://www.mfework.com/" target="_blank">Muğla Turkey: Play & Search
+                            <span class="superScript mfeSmall">*2</span></a>
+                    </li>
+                    <li>
+                        <a href="http://www.mfework.com/" target="_blank">Slovakia: Play & Search
                             <span class="superScript mfeSmall">*2</span></a>
                     </li>
                     <li>
