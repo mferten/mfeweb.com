@@ -126,7 +126,7 @@ p {
     color: #f5b4b4;
     font-size: 1.3rem;
     font-family: Arial, Helvetica, "Lucida Sans", sans-serif;
-    margin: 0 42%;
+    margin: .7rem 42%;
     border-width: .3rem;
     border-color: white;
     padding: 1rem;
@@ -167,6 +167,6 @@ p {
 
 @media (min-width: 770px) and (max-width: 1450px) {
     #id_DateTime {
-        margin: 0 36%;
+        margin: .5rem 36%;
     }
 }

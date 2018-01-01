@@ -12,15 +12,11 @@
             <nav>
                 <ul class="ulListStyle">
                     <li>
-                        <a href="http://www.mfeworld.com/" target="_blank">Play and Search our Flags & Countries
+                        <a href="http://www.mfeworld.com/" target="_blank">Play & Search: World Flags & Countries
                             <span class="superScript mfeSmall">*1</span></a>
                     </li>
                     <li>
-                        <a href="http://www.mfework.com/" target="_blank">Muğla, my Aegean & Mediterranean
-                            <span class="superScript mfeSmall">*2</span></a>
-                    </li>
-                    <li>
-                        <a href="http://www.mfework.com/" target="_blank">Slovakia, my Central Europe
+                        <a href="http://www.mfework.com/" target="_blank">Play & Search Slovakia
                             <span class="superScript mfeSmall">*2</span></a>
                     </li>
                     <li>
@@ -34,7 +30,7 @@
                         <a href="https://github.com/mferten" target="_blank">~ MFE GitHub</a>
                     </li>
                     <li>
-                        <a href="http://www.mfeweb.com/mail" target="_blank">~ MFE Mail</a>
+                        <a href="https://www.mfeweb.com/mail" target="_blank">~ MFE Mail</a>
                     </li>
                 </ul>
             </nav>
