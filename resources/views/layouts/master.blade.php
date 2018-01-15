@@ -28,8 +28,20 @@
             <span>&copy; {{ date('Y') }} Mehmet F Erten</span>
             <article>
                 <h3>
-                    <a href="images/programmingcertificate.png" target="_blank"><img src="images/programmingcertificate.png" alt="MFE Harvard FAS DCE HES Programming Certificate"/></a>
-                    <a href="images/webtechnologiescertificate.png" target="_blank"><img src="images/webtechnologiescertificate.png" alt="MFE Harvard FAS DCE HES Web Technologies Certificate"/></a>
+                    <figure style="display:inline-block">
+                        <a href="images/programmingcertificate.png" target="_blank">
+                            <img src="images/programmingcertificate.png"
+                                alt="MFE Harvard FAS DCE HES Programming Certificate"/>
+                        </a>
+                        <figcaption>Java</figcaption>
+                    </figure>
+                    <figure style="display:inline-block">
+                        <a href="images/webtechnologiescertificate.png" target="_blank">
+                            <img src="images/webtechnologiescertificate.png"
+                                alt="MFE Harvard FAS DCE HES Web Technologies Certificate"/>
+                        </a>
+                        <figcaption>HTML, CSS, JS, PHP, Spring MVC</figcaption>
+                    </figure>
                 </h3>
             </article>
         </footer>
