@@ -72,12 +72,12 @@ a {
     padding: .1rem;
     background-color: wheat;
     border-style: outset;
-    box-shadow: .1rem 1.3rem 1.5rem .2rem #5d4355;
+    box-shadow: .1rem .3rem .5rem .2rem #5d4355;
 }
 
 a:hover {
     background-color: #282828;
-    box-shadow: .1rem 1.3rem 1.5rem .2rem #de00ff;
+    box-shadow: .1rem .3rem .5rem .2rem #de00ff;
     color: papayaWhip;
 }
 
