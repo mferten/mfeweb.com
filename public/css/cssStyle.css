@@ -72,13 +72,27 @@ a {
     padding: .1rem;
     background-color: wheat;
     border-style: outset;
+}
+
+li a {
     box-shadow: .1rem .3rem .5rem .2rem #5d4355;
+}
+
+figure a {
+    box-shadow: .1rem .3rem .5rem .2rem #bcbb6d;
 }
 
 a:hover {
     background-color: #282828;
-    box-shadow: .1rem .3rem .5rem .2rem #de00ff;
     color: papayaWhip;
+}
+
+li a:hover {
+    box-shadow: .1rem .3rem .5rem .2rem #de00ff;
+}
+
+figure a:hover {
+    box-shadow: .1rem .3rem .5rem .2rem #eab358;
 }
 
 a:focus {
