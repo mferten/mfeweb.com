@@ -47,7 +47,7 @@ body {
 }
 
 h1, h2, h3, h4, footer {
-    color: #de00ff;
+    color: #FFE5EE;
     text-align: center;
     font-weight: bold;
     font-family: 'Kaushan Script', cursive;
@@ -68,18 +68,10 @@ ul li {
 a {
     font-size: 1.2rem;
     border-width: .4rem;
-    border-color: white;
+    border-color: #FFE5EE;
     padding: .1rem;
-    background-color: wheat;
-    border-style: outset;
-}
-
-li a {
-    box-shadow: .1rem .3rem .5rem .2rem #5d4355;
-}
-
-figure a {
-    box-shadow: .1rem .3rem .5rem .2rem #bcbb6d;
+    background-color: #FFE5EE;
+    border-style: inset;
 }
 
 a:hover {
@@ -93,6 +85,10 @@ li a:hover {
 
 figure a:hover {
     box-shadow: .1rem .3rem .5rem .2rem #eab358;
+}
+
+figcaption {
+    margin: 1rem 0;
 }
 
 a:focus {
