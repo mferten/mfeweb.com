@@ -16,7 +16,7 @@
                             <span class="superScript mfeSmall">*1</span></a>
                     </li>
                     <li>
-                        <a href="http://www.mfework.com/" target="_blank">US States: Play & Search
+                        <a href="http://www.mfework.com/" target="_blank">Diet: What and How to Eat
                             <span class="superScript mfeSmall">*2</span></a>
                     </li>
                     <li>
