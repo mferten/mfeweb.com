@@ -11,7 +11,7 @@
         <!-- require_once("phpfile/require/headTags.php") -->
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="World Flags by the Categories">
+        <meta name="description" content="MFE Web Sites">
         <meta name="keywords" content="MFE Web Sites by Mehmet F Erten">
         <meta name="author" content="Mehmet Fatih Erten">
         <meta name="csrf-token" content="{{ csrf_token() }}">
