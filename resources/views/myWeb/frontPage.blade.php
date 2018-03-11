@@ -16,7 +16,7 @@
                             <span class="superScript mfeSmall">*1</span></a>
                     </li>
                     <li>
-                        <a href="http://www.mfework.com/" target="_blank">Diet: What and How to Eat
+                        <a href="http://www.mfework.com/" target="_blank">World Flags by the Categories
                             <span class="superScript mfeSmall">*2</span></a>
                     </li>
                     <li>
@@ -37,7 +37,7 @@
                     <span class="mfeMedium">-[Prototype] Laravel/Elequent(ORM)/Ajax</span>
                 </p>
                 <p><span class="superScript mfeSmall">*2&nbsp;</span>
-                    <span class="mfeMedium">-Spring MVC/Hibernate/JPA2(ORM)/Ajax</span>
+                    <span class="mfeMedium">-Spring MVC/Hibernate/JPA2(ORM)</span>
                     <span class="mfeSmall">Under Construction</span>
                 </p>
             </article>
