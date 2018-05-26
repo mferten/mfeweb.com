@@ -30,14 +30,14 @@
                     <img src="images/programmingcertificate.png"
                         alt="MFE Harvard FAS DCE HES Programming Certificate"/>
                 </a>
-                <figcaption>Java</figcaption>
+                <figcaption><span style='color:#f5b4b4'>Harvard:</span> Java, PHP, Spring MVC</figcaption>
             </figure>
             <figure style="display:inline-block">
                 <a href="images/webtechnologiescertificate.png" target="_blank">
                     <img src="images/webtechnologiescertificate.png"
                         alt="MFE Harvard FAS DCE HES Web Technologies Certificate"/>
                 </a>
-                <figcaption>HTML, CSS, JS, PHP, Spring MVC</figcaption>
+                <figcaption><span style='color:#f5b4b4'>Harvard:</span> HTML, CSS, JavaScript</figcaption>
             </figure>
 
             <p><span class="superScript mfeSmall">*1&nbsp;</span>
