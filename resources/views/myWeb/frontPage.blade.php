@@ -31,24 +31,8 @@
                         <a href="http://www.mfework.com/" target="_blank">Flags Trivia
                             <span class="superScript mfeSmall">*2</span></a>
                     </li>
-                    <li>
-                        <h2>Miscellaneous</h2>
-                        <a href="http://www.mfeworld.com/citations" target="_blank">&nbsp;Citations&nbsp;</a>
-                        <a href="https://github.com/mferten" target="_blank">&nbsp;GitHub&nbsp;</a>
-                        <a href="https://www.mfeweb.com/mail" target="_blank">&nbsp;Mail&nbsp;</a>
-                    </li>
                 </ul>
             </nav>
-
-            <article>
-                <p><span class="superScript mfeSmall">*1&nbsp;</span>
-                    <span class="mfeMedium">-[Prototype] Laravel/Elequent(ORM)/Ajax</span>
-                </p>
-                <p><span class="superScript mfeSmall">*2&nbsp;</span>
-                    <span class="mfeMedium">-Spring MVC/Hibernate/JPA2(ORM)</span>
-                    <span class="mfeSmall">To Be Constructed</span>
-                </p>
-            </article>
         </main>
 @endpush
 

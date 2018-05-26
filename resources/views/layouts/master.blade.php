@@ -25,9 +25,8 @@
         @stack('module')
         {{-- footer --}}
         <footer>
-            <span>&copy; {{ date('Y') }} Mehmet F Erten</span>
             <article>
-                <h3>
+
                     <figure style="display:inline-block">
                         <a href="images/programmingcertificate.png" target="_blank">
                             <img src="images/programmingcertificate.png"
@@ -42,8 +41,23 @@
                         </a>
                         <figcaption>HTML, CSS, JS, PHP, Spring MVC</figcaption>
                     </figure>
-                </h3>
+               
+                <p><span class="superScript mfeSmall">*1&nbsp;</span>
+                    <span class="mfeMedium">-[Prototype] Laravel/Elequent(ORM)/Ajax</span>
+                </p>
+                <p><span class="superScript mfeSmall">*2&nbsp;</span>
+                    <span class="mfeMedium">-Spring MVC/Hibernate/JPA2(ORM)</span>
+                    <span class="mfeSmall">To Be Constructed</span>
+                </p>
             </article>
+            <ul class="ulListStyle">
+                <li>
+                    <a href="http://www.mfeworld.com/citations" target="_blank">&nbsp;Citations&nbsp;</a>
+                    <a href="https://github.com/mferten" target="_blank">&nbsp;GitHub&nbsp;</a>
+                    <a href="https://www.mfeweb.com/mail" target="_blank">&nbsp;Mail&nbsp;</a>
+                </li>
+            </ul>
+            <span>&copy; {{ date('Y') }} Mehmet F Erten</span>
         </footer>
         @stack('jsFiles')
     </body>
