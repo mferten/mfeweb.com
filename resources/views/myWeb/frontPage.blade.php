@@ -2,8 +2,8 @@
 @push('header')
 <!-- place holder -->
         <header>
-            <h1>M.F.E Web Sites</h1>
-            <h2 id="id_DateTime">Date and Time</h2>
+            <h2>M.F.E Web Sites</h2>
+            <h3 id="id_DateTime">Date and Time</h3>
         </header>
 @endpush
 @push('module')
