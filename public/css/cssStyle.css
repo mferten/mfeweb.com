@@ -108,8 +108,12 @@ p {
     margin: 0;
 }
 
-img {
-    width: 13rem;
+.img16 {
+    width: 16rem;
+}
+
+.img22 {
+    width: 22rem;
 }
 
 @media (min-width: 1px) and (max-width: 440px) {

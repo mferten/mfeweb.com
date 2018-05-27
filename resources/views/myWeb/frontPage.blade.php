@@ -6,12 +6,11 @@
             <h4 id="id_DateTime">Date and Time</h4>
             <figure style="display:inline-block">
                 <a href="images/programmingcertificate.png" target="_blank">
-                    <img src="images/programmingcertificate.png"
+                    <img class="img22" src="images/programmingcertificate.png"
                         alt="MFE Harvard Digital Media Design ALM"/>
                 </a>
                 <figcaption>
-                    <p style='color:#f5b4b4'>Harvard FAS DCE HES (2019 March)</p>
-                    <p style='color:#FFE5EE'>The Master of Liberal Arts, Digital Media Design</p>
+                    <p style='color:#f5b4b4'>Harvard FAS DCE HES (2019 March) ALM DMD</p>
                 </figcaption>
             </figure>
         </header>
