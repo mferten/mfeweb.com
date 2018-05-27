@@ -5,7 +5,7 @@
             <h2>M.F.E Web Sites</h2>
             <figure style="display:inline-block">
                 <a href="images/programmingcertificate.png" target="_blank">
-                    <img class="img18" src="images/programmingcertificate.png"
+                    <img class="img18 aPng" src="images/programmingcertificate.png"
                         alt="MFE Harvard Digital Media Design ALM"/>
                 </a>
                 <figcaption>
