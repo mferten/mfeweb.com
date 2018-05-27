@@ -3,7 +3,6 @@
 <!-- place holder -->
         <header>
             <h2>M.F.E Web Sites</h2>
-            <h4 id="id_DateTime">Date and Time</h4>
             <figure style="display:inline-block">
                 <a href="images/programmingcertificate.png" target="_blank">
                     <img class="img18" src="images/programmingcertificate.png"
