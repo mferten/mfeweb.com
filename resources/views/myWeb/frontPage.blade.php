@@ -20,24 +20,29 @@
             <nav>
                 <ul class="ulListStyle">
                     <li>
-                        <a href="http://www.mfeworld.com/" target="_blank">World Flags & Countries: Discover
-                            <span class="superScript mfeSmall">*1</span></a>
+                        <a href="http://www.mfeworld.com/" target="_blank">
+                            World Flags & Countries: Discover
+                        </a>
                     </li>
                     <li>
-                        <a href="http://www.mfework.com/" target="_blank">Fill the Map with The Flags
-                            <span class="superScript mfeSmall">*1</span></a>
+                        <a href="http://www.mfework.com/" target="_blank">
+                            Fill the Map with The Flags
+                        </a>
                     </li>
                     <li>
-                        <a href="http://www.mfework.com/" target="_blank">Fix the Mixed Flags
-                            <span class="superScript mfeSmall">*1</span></a>
+                        <a href="http://www.mfework.com/" target="_blank">
+                            Fix the Mixed Flags
+                        </a>
                     </li>
                     <li>
-                        <a href="http://www.mfework.com/" target="_blank">Countries Trivia
-                            <span class="superScript mfeSmall">*2</span></a>
+                        <a href="http://www.mfework.com/" target="_blank">
+                            Countries Trivia
+                        </a>
                     </li>
                     <li>
-                        <a href="http://www.mfework.com/" target="_blank">Flags Trivia
-                            <span class="superScript mfeSmall">*2</span></a>
+                        <a href="http://www.mfework.com/" target="_blank">
+                            Flags Trivia
+                        </a>
                     </li>
                 </ul>
             </nav>

@@ -108,14 +108,6 @@ p {
     margin: 0;
 }
 
-.img12 {
-    width: 12rem;
-}
-
-.img18 {
-    width: 18rem;
-}
-
 @media (min-width: 1px) and (max-width: 440px) {
     body {
         background-size: 5rem, 5rem, 5rem, 5rem;
@@ -128,6 +120,14 @@ p {
     }
 }
 
+.img12 {
+    width: 12rem;
+}
+
+.img18 {
+    width: 18rem;
+}
+
 /* Grid Box Layout staring here */
 .gridBox {
     display: grid;
@@ -135,18 +135,6 @@ p {
     text-align: center;
     padding: 1rem;
     margin: 0 auto;
-}
-
-.mfeSmall {
-    font-size: small;
-    font-weight: bold;
-    color: #b1c5b2;
-}
-
-.mfeMedium {
-    font-size: medium;
-    font-weight: bold;
-    color: #b1c5b2;
 }
 
 .ulListStyle {

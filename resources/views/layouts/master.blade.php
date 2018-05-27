@@ -40,13 +40,6 @@
                 <figcaption><span style='color:#f5b4b4'>Harvard:</span> HTML, CSS, JavaScript</figcaption>
             </figure>
 
-            <p>
-                <span class="superScript mfeSmall">*1&nbsp;</span>
-                <span class="mfeMedium">-[Prototype] Laravel/Elequent(ORM)/Ajax</span>&nbsp;&nbsp;
-                <span class="superScript mfeSmall">*2&nbsp;</span>
-                <span class="mfeMedium">-Spring MVC/Hibernate/JPA2(ORM)</span>
-                <span class="mfeSmall">To Be Constructed</span>
-            </p>
             <ul class="ulListStyle">
                 <li>
                     <a href="http://www.mfeworld.com/citations" target="_blank">&nbsp;Citations&nbsp;</a>
