@@ -62,12 +62,12 @@ nav {
 }
 
 ul li {
-    margin: 1.6rem;
+    margin: 1.1rem;
 }
 
 a {
-    font-size: 1.2rem;
-    border-width: .4rem;
+    font-size: 1.1rem;
+    border-width: .2rem;
     border-color: #FFE5EE;
     padding: .1rem;
     background-color: #FFE5EE;
@@ -159,15 +159,11 @@ img {
 
 #id_DateTime {
     color: #f5b4b4;
-    font-size: 1.3rem;
+    font-size: 1rem;
     font-family: Arial, Helvetica, "Lucida Sans", sans-serif;
-    margin: .7rem 42%;
-    border-width: .3rem;
-    border-color: white;
-    padding: 1rem;
+    margin: .4rem 42%;
+    padding: .5rem;
     background-color: #190623;
-    border-style: outset;
-    box-shadow: .1rem .3rem 1rem .2rem #f5b4b4;
 }
 
 @media (min-width: 1px) and (max-width: 360px) {

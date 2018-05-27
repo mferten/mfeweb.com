@@ -3,7 +3,17 @@
 <!-- place holder -->
         <header>
             <h2>M.F.E Web Sites</h2>
-            <h3 id="id_DateTime">Date and Time</h3>
+            <h4 id="id_DateTime">Date and Time</h4>
+            <figure style="display:inline-block">
+                <a href="images/programmingcertificate.png" target="_blank">
+                    <img src="images/programmingcertificate.png"
+                        alt="MFE Harvard Digital Media Design ALM"/>
+                </a>
+                <figcaption>
+                    <p style='color:#f5b4b4'>Harvard FAS DCE HES (2019 March)</p>
+                    <p style='color:#FFE5EE'>The Master of Liberal Arts, Digital Media Design</p>
+                </figcaption>
+            </figure>
         </header>
 @endpush
 @push('module')
