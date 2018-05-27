@@ -46,7 +46,7 @@ body {
     background-color: #190623;
 }
 
-h1, h2, h3, h4, footer {
+a, h1, h2, h3, h4, footer {
     color: #FFE5EE;
     text-align: center;
     font-weight: bold;
@@ -62,16 +62,11 @@ nav {
 }
 
 ul li {
-    margin: 1.1rem;
+    margin: .4rem;
 }
 
 a {
-    font-size: 1.1rem;
-    border-width: .2rem;
-    border-color: #FFE5F7;
-    padding: .1rem;
-    background-color: #FFE5EE;
-    border-style: inset;
+    font-size: 1.8rem;
 }
 
 a:hover {
@@ -88,7 +83,7 @@ figure a:hover {
 }
 
 figcaption {
-    margin: 1rem 0;
+    margin: .2rem 0;
 }
 
 a:focus {
