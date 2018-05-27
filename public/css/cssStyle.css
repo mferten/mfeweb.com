@@ -68,6 +68,7 @@ ul li {
 a {
     font-size: 1.5rem;
     text-decoration: none;
+    box-shadow: 0 1rem 0.7rem -1rem #f5b4b4;
 }
 
 a:hover {
