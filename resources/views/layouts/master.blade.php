@@ -26,18 +26,18 @@
         {{-- footer --}}
         <footer>
             <figure style="display:inline-block">
+                <figcaption><span style='color:#f5b4b4'>Harvard:</span> Java, PHP, Spring MVC</figcaption>
                 <a href="images/programmingcertificate.png" target="_blank">
                     <img class="img12  aPng" src="images/programmingcertificate.png"
                         alt="MFE Harvard FAS DCE HES Programming Certificate"/>
                 </a>
-                <figcaption><span style='color:#f5b4b4'>Harvard:</span> Java, PHP, Spring MVC</figcaption>
             </figure>
             <figure style="display:inline-block">
+                <figcaption><span style='color:#f5b4b4'>Harvard:</span> HTML, CSS, JavaScript</figcaption>
                 <a href="images/webtechnologiescertificate.png" target="_blank">
                     <img class="img12  aPng" src="images/webtechnologiescertificate.png"
                         alt="MFE Harvard FAS DCE HES Web Technologies Certificate"/>
                 </a>
-                <figcaption><span style='color:#f5b4b4'>Harvard:</span> HTML, CSS, JavaScript</figcaption>
             </figure>
 
             <ul class="ulListStyle">
