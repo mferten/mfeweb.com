@@ -8,7 +8,7 @@
                     <p style='color:#f5b4b4'>Harvard FAS DCE HES (*2019*) ALM DMD</p>
                 </figcaption>
                 <a href="images/programmingcertificate.png" target="_blank">
-                    <img class="img18 aPng" src="images/programmingcertificate.png"
+                    <img class="img17 aPng" src="images/programmingcertificate.png"
                         alt="MFE Harvard Digital Media Design ALM"/>
                 </a>
             </figure>
@@ -25,22 +25,22 @@
                         </a>
                     </li>
                     <li>
-                        <a href="http://www.mfework.com/" target="_blank">
+                        <a href="http://www.mfeworld.com/fill" target="_blank">
                             Fill the Map with The Flags
                         </a>
                     </li>
                     <li>
-                        <a href="http://www.mfework.com/" target="_blank">
+                        <a href="http://www.mfeworld.com/fix" target="_blank">
                             Fix the Mixed Flags
                         </a>
                     </li>
                     <li>
-                        <a href="http://www.mfework.com/" target="_blank">
+                        <a href="http://mfeworld.com:8080/countries" target="_blank">
                             Countries Trivia
                         </a>
                     </li>
                     <li>
-                        <a href="http://www.mfework.com/" target="_blank">
+                        <a href="http://www.mfeworld.com:8080/" target="_blank">
                             Flags Trivia
                         </a>
                     </li>
