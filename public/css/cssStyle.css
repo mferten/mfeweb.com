@@ -29,8 +29,6 @@
 
 html {
     font-family: Arial, Helvetica, "Lucida Sans", sans-serif;
-    /* have the scroll bar all the time */
-    overflow-y: scroll;
 }
 
 body {
