@@ -7,7 +7,7 @@
                 <figcaption>
                     <p style='color:#f5b4b4'>Harvard FAS DCE HES (*2019*) ALM DMD</p>
                 </figcaption>
-                <a href="images/programmingcertificate.png" target="_blank" download>
+                <a href="images/programmingcertificate.png" target="_blank">
                     <img class="img14 aPng" src="images/programmingcertificate.png"
                         alt="MFE Harvard Digital Media Design ALM"/>
                 </a>
