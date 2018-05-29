@@ -42,7 +42,6 @@ body {
     background-size: 5rem, 5rem;
     margin: 2% auto;
     font-weight: bold;
-    font-size: 1.1rem;
     background-color: #190623;
 }
 
@@ -150,21 +149,6 @@ p {
     font-weight: bold;
 }
 
-#id_DateTime {
-    color: #f5b4b4;
-    font-size: 1rem;
-    font-family: Arial, Helvetica, "Lucida Sans", sans-serif;
-    margin: .4rem 42%;
-    padding: .5rem;
-    background-color: #190623;
-}
-
-@media (min-width: 1px) and (max-width: 360px) {
-    #id_DateTime {
-        margin: 0 3%;
-    }
-}
-
 @media (min-width: 361px) and (max-width: 414px) {
     header {
         margin: 5%;
@@ -178,19 +162,4 @@ p {
         font-size: .9rem;
     }
 
-    #id_DateTime {
-        margin: 0 9%;
-    }
-}
-
-@media (min-width: 415px) and (max-width: 769px) {
-    #id_DateTime {
-        margin: 0 30%;
-    }
-}
-
-@media (min-width: 770px) and (max-width: 1450px) {
-    #id_DateTime {
-        margin: .5rem 36%;
-    }
 }
