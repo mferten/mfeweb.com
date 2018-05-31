@@ -86,6 +86,8 @@ figure a:hover {
 }
 
 figcaption {
+    font-size: 1.4rem;
+    font-weight: bold;
     margin: .2rem 0;
 }
 
@@ -106,16 +108,8 @@ p {
     margin: 0;
 }
 
-@media (min-width: 1px) and (max-width: 440px) {
-    body {
-        background-size: 5rem, 5rem, 5rem, 5rem;
-    }
-}
-
-@media (min-width: 401px) and (max-width: 768px) {
-    body {
-        background-size: 5rem, 5rem, 10rem, 10rem;
-    }
+.harvard {
+    color: #f5b4b4;
 }
 
 .img10 {
@@ -145,6 +139,19 @@ p {
     color: #190623;
     background-color: #ecb9b1;
     font-weight: bold;
+}
+
+/* responsive design values */
+@media (min-width: 1px) and (max-width: 440px) {
+    body {
+        background-size: 5rem, 5rem, 5rem, 5rem;
+    }
+}
+
+@media (min-width: 401px) and (max-width: 768px) {
+    body {
+        background-size: 5rem, 5rem, 10rem, 10rem;
+    }
 }
 
 @media (min-width: 361px) and (max-width: 414px) {
