@@ -3,7 +3,7 @@
 <!-- place holder -->
         <header>
             <h1>M.F.E Web Sites</h1>
-            <figure style="display:inline-block">
+            <figure>
                 <figcaption>
                     <p class='harvard'>Harvard FAS DCE HES DMD ALM *2019*</p>
                 </figcaption>

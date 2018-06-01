@@ -43,18 +43,18 @@ body {
     background-color: #190623;
 }
 
-a, h1, h2, h3, h4, footer {
+a, h1, footer {
     color: #EA4CA5;
     text-align: center;
     font-weight: bold;
 }
 
-a, h2, h3, h4 {
+a {
     font-family: 'Kaushan Script', cursive;
 }
 
 h1 {
-    margin: 4rem 0 1rem 0;
+    margin: 2rem 0 1rem 0;
 }
 
 nav {
@@ -84,6 +84,9 @@ li a:hover {
     box-shadow: .1rem .3rem .5rem .2rem #eab358;
 }
 
+figure {
+    display: inline-block;
+}
 figure a:hover {
     box-shadow: .1rem .3rem .5rem .2rem #eab358;
 }
@@ -104,7 +107,7 @@ article {
 }
 
 footer {
-    margin: 1rem;
+    margin: .2rem;
 }
 
 p {
