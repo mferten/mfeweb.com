@@ -25,15 +25,16 @@
         @stack('module')
         {{-- footer --}}
         <footer>
+            <p class='harvard'>Harvard Graduate Certificates</p>
             <figure style="display:inline-block">
-                <figcaption><p class='harvard'>Harvard Programming Graduate Certificate</p></figcaption>
+                <figcaption><p class='harvard'>Programming</p></figcaption>
                 <a href="images/programmingcertificate.png" target="_blank">
                     <img class="img10  aPng" src="images/programmingcertificate.png"
                         alt="MFE Harvard FAS DCE HES Programming Certificate"/>
                 </a>
             </figure>
             <figure style="display:inline-block">
-                <figcaption><p class='harvard'>Harvard Web Technologies Graduate Certificate</p></figcaption>
+                <figcaption><p class='harvard'>Web Technologies</p></figcaption>
                 <a href="images/webtechnologiescertificate.png" target="_blank">
                     <img class="img10  aPng" src="images/webtechnologiescertificate.png"
                         alt="MFE Harvard FAS DCE HES Web Technologies Certificate"/>
