@@ -3,10 +3,8 @@
 <!-- place holder -->
         <header>
             <h1>M.F.E Web Sites</h1>
+            <h2 class='harvard'>Harvard FAS DCE HES DMD ALM *2019*</h2>
             <figure>
-                <figcaption>
-                    <p class='harvard'>Harvard FAS DCE HES DMD ALM *2019*</p>
-                </figcaption>
                 <a href="images/programmingcertificate.png" target="_blank">
                     <img class="img14 aPng" src="images/programmingcertificate.png"
                         alt="MFE Harvard Digital Media Design ALM"/>

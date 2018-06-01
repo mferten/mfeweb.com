@@ -57,6 +57,9 @@ h1 {
     margin: 2rem 0 1rem 0;
 }
 
+h2, h3 {
+    margin: .1rem;
+}
 nav {
     text-align: center;
 }
@@ -115,7 +118,7 @@ p {
 }
 
 .harvard {
-    color: #f5b4b4;
+    color: #bcbb6d;
 }
 
 .img10 {

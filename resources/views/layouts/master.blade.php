@@ -25,7 +25,7 @@
         @stack('module')
         {{-- footer --}}
         <footer>
-            <h2 class='harvard'>Harvard Graduate Certificates</h2>
+            <h3 class='harvard'>Harvard Graduate Certificates</h3>
             <figure>
                 <figcaption><p class='harvard'>Programming</p></figcaption>
                 <a href="images/programmingcertificate.png" target="_blank">
