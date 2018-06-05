@@ -39,13 +39,13 @@
                         </a>
                     </li>
                     <li>
-                        <a href="http://mfeworld.com:8080/countries" target="_blank">
-                            Countries Trivia
+                        <a href="http://www.mfeworld.com/trivia" target="_blank">
+                            World Flags Trivia
                         </a>
                     </li>
                     <li>
-                        <a href="http://www.mfeworld.com:8080/" target="_blank">
-                            Flags Trivia
+                        <a href="http://mfeworld.com:8080" target="_blank">
+                            Countries Trivia
                         </a>
                     </li>
                 </ul>
