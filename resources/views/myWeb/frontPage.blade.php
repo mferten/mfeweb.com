@@ -39,13 +39,8 @@
                         </a>
                     </li>
                     <li>
-                        <a href="http://www.mfeworld.com/trivia" target="_blank">
-                            World Flags Trivia
-                        </a>
-                    </li>
-                    <li>
                         <a href="http://mfeworld.com:8080" target="_blank">
-                            Countries Trivia
+                            Flags Trivia
                         </a>
                     </li>
                 </ul>
