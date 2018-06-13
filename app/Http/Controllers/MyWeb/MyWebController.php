@@ -15,4 +15,10 @@ class MyWebController extends Controller
         // Validation is done in JS
         return view('myWeb.frontPage');
     }
+
+    # Send an Email message
+    public function sendAnE_Mail(Request $request)
+    {
+        return Utility::processSendMail($request['toMailAddress'], $request['mailMessage']);
+    }
 }
