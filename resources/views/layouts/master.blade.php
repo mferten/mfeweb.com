@@ -48,7 +48,7 @@
                     <a href="http://www.mfeworld.com/citations" target="_blank">&nbsp;Citations&nbsp;</a>
                     <a href="https://github.com/mferten" target="_blank">&nbsp;GitHub&nbsp;</a>
                     <a href="https://www.mfeweb.com/mail" target="_blank">&nbsp;Mail&nbsp;</a>
-                    <a id="emailAnchor">&nbsp;&nbsp;&nbsp;&nbsp;<img id="emailIcon" class="emailIconSize" src="images/email.png" alt="User's Opinion"/>Your Opinion&nbsp;</a>
+                    <a id="emailAnchor">&nbsp;&nbsp;&nbsp;&nbsp;<img id="emailIcon" class="iconSize" src="images/email.png" alt="User's Opinion"/>Your Opinion&nbsp;</a>
                 </li>
             </ul>
             <span>&copy; {{ date('Y') }} Mehmet F Erten</span>

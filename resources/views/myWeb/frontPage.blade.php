@@ -47,9 +47,9 @@
             </nav>
             <!-- User Opinion -->
             <figure id="emailBox" class="displayNone">
-                <img id="sendButton" class="threeRems" src="images/sendMail.jpg" alt="Send" title="Send your eMail"/>
-                <img id="clearButton" class="threeRems" src="images/clear.jpg" alt="Clear" title="Clear your eMail"/>
-                <img id="returnButton" class="threeRems" src="images/return.jpg" alt="Return" title="Return to Main Page"/>
+                <img id="sendButton" class="iconSize" src="images/sendMail.jpg" alt="Send" title="Send your eMail"/>
+                <img id="clearButton" class="iconSize" src="images/clear.jpg" alt="Clear" title="Clear your eMail"/>
+                <img id="returnButton" class="iconSize" src="images/return.jpg" alt="Return" title="Return to Main Page"/>
                 <form id="SendMailModule" method="post">
                     <label for="mailText" class='harvard'>Please Enter Your Opinion</label>
                     <textarea class="img20 aPng" id="mailText" rows="15" cols="50"></textarea>

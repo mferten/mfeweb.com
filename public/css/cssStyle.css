@@ -121,9 +121,9 @@ label {
     display: block;
 }
 
-.threeRems {
-    width: 3rem;
-    height: 3rem;
+.iconSize {
+    width: 1.9rem;
+    height: 1.9rem;
 }
 
 .harvard {
@@ -157,11 +157,6 @@ label {
     color: #190623;
     background-color: #ecb9b1;
     font-weight: bold;
-}
-
-.emailIconSize {
-    width: 1.9rem;
-    height: 1.9rem;
 }
 
 .error {
