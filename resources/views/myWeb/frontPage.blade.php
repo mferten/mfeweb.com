@@ -10,7 +10,7 @@
                 <abbr title="Digital Media Design"> DMD</abbr>
                 <abbr title="Master of Liberal Arts"> ALM</abbr>
                 <abbr title="Completion by December 2018, Graduation by March 2019 and Commencement by May 2019"> 2019</abbr></h2>
-            <figure>
+            <figure id="master">
                 <a href="images/programmingcertificate.png" target="_blank">
                     <img class="img14 aPng" src="images/programmingcertificate.png"
                         alt="MFE Harvard Digital Media Design ALM"/>
@@ -21,7 +21,7 @@
 @push('module')
 <!-- place holder -->
         <main>
-            <nav>
+            <nav id="menu">
                 <ul class="ulListStyle">
                     <li>
                         <a href="http://www.mfeworld.com/" target="_blank">
@@ -45,6 +45,17 @@
                     </li>
                 </ul>
             </nav>
+            <!-- User Opinion -->
+            <figure id="emailBox" class="displayNone">
+                <img id="sendButton" class="threeRems" src="images/sendMail.jpg" alt="Send"/>
+                <img id="clearButton" class="threeRems" src="images/clear.jpg" alt="Clear"/>
+                <img id="returnButton" class="threeRems" src="images/return.jpg" alt="Return"/>
+                <form id="SendMailModule" method="post">
+                    <label for="mailText" class='harvard'>Please Enter Your Opinion</label>
+                    <textarea class="img20 aPng" id="mailText" rows="15" cols="50"></textarea>
+                    <p id="mailTextError" class="error"></p>
+                </form>
+            </figure>
         </main>
 @endpush
 

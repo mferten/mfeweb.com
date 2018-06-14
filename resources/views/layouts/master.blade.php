@@ -48,19 +48,10 @@
                     <a href="http://www.mfeworld.com/citations" target="_blank">&nbsp;Citations&nbsp;</a>
                     <a href="https://github.com/mferten" target="_blank">&nbsp;GitHub&nbsp;</a>
                     <a href="https://www.mfeweb.com/mail" target="_blank">&nbsp;Mail&nbsp;</a>
+                    <a id="emailAnchor"><img id="emailIcon" class="emailIconSize" src="images/email.png" alt="User's Opinion"/>Your Opinion&nbsp;</a>
                 </li>
             </ul>
             <span>&copy; {{ date('Y') }} Mehmet F Erten</span>
-            <h2>Your Opinion</h2>
-            <!-- event textarea error (blank) in myWebBench.js
-                 button and error classes (margin, look) in cssStyle.css
-            -->
-            <form id="SendMailModule" method="post">
-                <button  class="buttonDefaults" id="sendButton" type="button" onclick="processSendMail()">Send</button>
-                <textarea id="mailText" rows="15" cols="50"></textarea>
-        	      <button  class="buttonDefaults" id="clearButton" type="button" onclick="processClearMail()">Clear</button>
-                <p id="mailTextError" class="error"></p>
-            </form>
         </footer>
         @stack('jsFiles')
     </body>

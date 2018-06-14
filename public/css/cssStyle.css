@@ -117,6 +117,15 @@ p {
     margin: 0;
 }
 
+label {
+    display: block;
+}
+
+.threeRems {
+    width: 3rem;
+    height: 3rem;
+}
+
 .harvard {
     color: #bcbb6d;
 }
@@ -148,6 +157,23 @@ p {
     color: #190623;
     background-color: #ecb9b1;
     font-weight: bold;
+}
+
+.emailIconSize {
+    width: 1.9rem;
+    height: 1.9rem;
+}
+
+.error {
+    color: red;
+}
+
+.displayNone {
+    display: none;
+}
+
+#mailText {
+    background-color: #ffc;
 }
 
 /* responsive design values */

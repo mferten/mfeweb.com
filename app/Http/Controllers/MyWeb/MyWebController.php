@@ -4,6 +4,7 @@ namespace App\Http\Controllers\MyWeb;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
+use App\Utility;
 
 class MyWebController extends Controller
 {
