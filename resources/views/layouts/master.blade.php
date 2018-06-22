@@ -52,7 +52,10 @@
                 </li>
             </ul>
             <span>&copy; {{ date('Y') }} Mehmet F Erten</span>
-        </footer>
+            </footer>
         @stack('jsFiles')
+        <script language="JavaScript" type="text/javascript">
+            TrustLogo("https://www.mfeweb.com/images/comodo_secure_seal_76x26_transp.png", "CL1", "none");
+        </script>
     </body>
 </html>
