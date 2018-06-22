@@ -75,7 +75,6 @@ ul li {
 a {
     font-size: 1.5rem;
     text-decoration: none;
-    box-shadow: 0 1rem 0.7rem -1rem whitesmoke;
 }
 
 a:hover {
@@ -87,7 +86,7 @@ li a:hover {
     box-shadow: .1rem .3rem .5rem .2rem #eab358;
 }
 
-figure {
+figure, .inlineBlock {
     display: inline-block;
 }
 figure a:hover {
@@ -120,6 +119,10 @@ p {
 label {
     display: block;
 }
+
+.bugBoxShadow {
+    box-shadow: 0 1rem 0.7rem -1rem whitesmoke;
+  }
 
 .iconSize {
     width: 1.9rem;

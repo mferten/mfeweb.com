@@ -51,11 +51,10 @@
                     <a id="emailAnchor">&nbsp;&nbsp;&nbsp;&nbsp;<img id="emailIcon" class="iconSize" src="images/email.png" alt="User's Opinion"/>Your Opinion&nbsp;</a>
                 </li>
             </ul>
-            <span>&copy; {{ date('Y') }} Mehmet F Erten</span>
+            <img src='https://www.mfeweb.com/images/comodo_secure_seal_76x26_transp.png' alt="Comodo"/>
+            <p>&copy; {{ date('Y') }} Mehmet F Erten</p>
             </footer>
         @stack('jsFiles')
-        <script language="JavaScript" type="text/javascript">
-            TrustLogo("https://www.mfeweb.com/images/comodo_secure_seal_76x26_transp.png", "CL1", "none");
         </script>
     </body>
 </html>
