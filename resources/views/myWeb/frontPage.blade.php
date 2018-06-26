@@ -4,12 +4,12 @@
         <header>
             <h1><abbr title="Mehmet F Erten: Mehmet Fatih Erten"> M.F.E</abbr> Web Sites</h1>
             <h2 class='harvard'>Harvard
-                <abbr title="Faculty of Arts and Sciences"> FAS</abbr>
-                <abbr title="Division of Continuing Education"> DCE</abbr>
-                <abbr title="Harvard Extension School"> HES</abbr>
-                <abbr title="Digital Media Design"> DMD</abbr>
                 <abbr title="Master of Liberal Arts"> ALM</abbr>
-                <abbr title="Completion by December 2018, Graduation by March 2019 and Commencement by May 2019"> 2019</abbr></h2>
+                <abbr title="Digital Media Design"> DMD</abbr>
+                <abbr title="Faculty of Arts and Sciences (FAS)
+                             Division of Continuing Education (DCE)
+                             Harvard Extension School (HES)
+                             Completion by December 2018, Graduation by March 2019 and Commencement by May 2019"> 2019</abbr></h2>
             <figure id="master">
                 <a href="images/programmingcertificate.png" target="_blank">
                     <img class="img14 aPng" src="images/programmingcertificate.png"
@@ -25,7 +25,7 @@
                 <ul class="ulListStyle">
                     <li>
                         <a href="http://www.mfeworld.com/" target="_blank">
-                            World Flags & Countries: Discover
+                            World Maps, Countries & Flags
                         </a>
                     </li>
                     <li>
