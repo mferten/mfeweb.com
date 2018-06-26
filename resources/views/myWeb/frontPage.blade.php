@@ -25,7 +25,7 @@
                 <ul class="ulListStyle">
                     <li>
                         <a href="http://www.mfeworld.com/" target="_blank">
-                            World Maps, Countries & Flags
+                            World Maps, Flags & Countries 
                         </a>
                     </li>
                     <li>
