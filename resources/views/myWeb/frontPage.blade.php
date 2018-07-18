@@ -25,22 +25,12 @@
                 <ul class="ulListStyle">
                     <li>
                         <a href="http://www.mfeworld.com/" target="_blank">
-                            World Maps, Flags & Countries 
+                            World Maps, Flags & Countries
                         </a>
                     </li>
                     <li>
-                        <a href="http://www.mfeworld.com/fill" target="_blank">
-                            Fill the Map with The Flags
-                        </a>
-                    </li>
-                    <li>
-                        <a href="http://www.mfeworld.com/fix" target="_blank">
-                            Fix the Mixed Flags
-                        </a>
-                    </li>
-                    <li>
-                        <a href="http://mfeworld.com:8080" target="_blank">
-                            Flags Trivia
+                        <a href="http://mfeworld.com/trivia" target="_blank">
+                            Flags & Country Search
                         </a>
                     </li>
                 </ul>
