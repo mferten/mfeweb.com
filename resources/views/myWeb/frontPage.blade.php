@@ -33,6 +33,16 @@
                             Flags & Country Search
                         </a>
                     </li>
+                    <li>
+                        <a href="http://www.mfework.com/" target="_blank">
+                            Why am I a Vegan?
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://www.mywebbench.com/" target="_blank">
+                            An American Wakanda!
+                        </a>
+                    </li>
                 </ul>
             </nav>
             <!-- User Opinion -->

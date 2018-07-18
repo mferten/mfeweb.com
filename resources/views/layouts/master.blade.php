@@ -43,8 +43,6 @@
 
             <ul class="ulListStyle">
                 <li>
-                    <a href="http://www.mfework.com" target="_blank">&nbsp;Vegan&nbsp;</a>
-                    <a href="http://www.mywebbench.com" target="_blank">&nbsp;USVI&nbsp;</a>
                     <a href="http://www.mfeworld.com/citations" target="_blank">&nbsp;Citations&nbsp;</a>
                     <a href="https://github.com/mferten" target="_blank">&nbsp;GitHub&nbsp;</a>
                     <a href="https://www.mfeweb.com/mail" target="_blank">&nbsp;Mail&nbsp;</a>
