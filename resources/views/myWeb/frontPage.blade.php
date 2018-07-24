@@ -29,7 +29,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="http://mfeworld.com/trivia" target="_blank">
+                        <a href="http://mfeworld.com/dashBoard/" target="_blank">
                             Flags & Country Search
                         </a>
                     </li>
