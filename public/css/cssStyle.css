@@ -49,7 +49,7 @@ a, h1, footer {
     font-weight: bold;
 }
 
-a {
+a, h1 {
     font-family: 'Kaushan Script', cursive;
 }
 

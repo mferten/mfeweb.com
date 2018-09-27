@@ -25,7 +25,7 @@
                 <ul class="ulListStyle">
                     <li>
                         <a href="http://www.mfeworld.com/" target="_blank">
-                            World Dashboard (SVG Maps and Flags)
+                            World Dashboard
                         </a>
                     </li>
                     <li>
@@ -35,12 +35,12 @@
                     </li>
                     <li>
                         <a href="http://mfeworld.com/quizMe/" target="_blank">
-                            World Dashboard Quizzes: WIP Laravel PHP
+                            World Dashboard Quizzes WIP PHP
                         </a>
                     </li>
                     <li>
                         <a href="http://mfeworld.com:8080" target="_blank">
-                            World Dashboard Quizzes: WIP Spring MVC Java
+                            World Dashboard Quizzes WIP Java
                         </a>
                     </li>
                     <li>
