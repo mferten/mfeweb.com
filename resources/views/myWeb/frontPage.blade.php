@@ -39,7 +39,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="http://mfeworld.com:8080" target="_blank">
+                        <a href="http://mfeworld.com:8080/quizzes" target="_blank">
                             World Dashboard Quizzes WIP Java
                         </a>
                     </li>
