@@ -35,12 +35,12 @@
                     </li>
                     <li>
                         <a href="http://mfeworld.com/quizMe/" target="_blank">
-                            World Dashboard Quizzes WIP PHP
+                            World Dashboard Quizzes (wip)
                         </a>
                     </li>
                     <li>
-                        <a href="http://mfeworld.com:8080/quizzes" target="_blank">
-                            World Dashboard Quizzes WIP Java
+                        <a href="http://mfeworld.com:8080/world-dashboard/countries" target="_blank">
+                            World Dashboard Control Center (Java: wip)
                         </a>
                     </li>
                     <li>
