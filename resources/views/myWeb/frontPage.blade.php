@@ -39,7 +39,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="http://mfeworld.com:8080/world-dashboard/countries" target="_blank">
+                        <a href="http://mfeworld.com:8080/world-dashboard/" target="_blank">
                             World Dashboard Control Center: Spring MVC
                         </a>
                     </li>
