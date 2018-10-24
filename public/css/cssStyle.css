@@ -39,8 +39,8 @@ body {
                       url("/images/iredmail.png");
     background-repeat: no-repeat;
     background-position: left top, right top, left bottom, right bottom;
-    background-size: 5rem, 5rem, 5rem, 5rem;
-    margin: 2% auto;
+    background-size: 3.5rem, 3.5rem, 3.5rem, 3.5rem;
+    margin: .3rem auto;
     font-weight: bold;
     background-color: #190623;
 }
