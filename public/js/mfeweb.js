@@ -48,7 +48,6 @@
             processClearMail();
             returnBack();
         }
-        else if (event.target.id == "title3") alert(document.getElementById(event.target.id).title);
     }
 
     function ableDisableMasterMenu(addRemoveFlag)
