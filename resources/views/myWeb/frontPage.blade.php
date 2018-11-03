@@ -6,9 +6,7 @@
             <h2 class='harvard'>Harvard
                 <abbr title="Master of Liberal Arts"> ALM</abbr>
                 <abbr title="Digital Media Design"> DMD</abbr>
-                <a>
-                    <abbr id="title3"> 2019</abbr></h2>
-                </a>    
+                <abbr id="title3"> 2019</abbr></h2>
                 <figure id="master">
                     <a href="images/programmingcertificate.png" target="_blank">
                         <img class="img14 aPng" src="images/programmingcertificate.png"
