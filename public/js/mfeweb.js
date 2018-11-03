@@ -17,6 +17,7 @@
         "-  Completion by December 2018," + "\n" +
         "-  Graduation by March 2019 and" + "\n" +
         "-  Commencement by May 2019";
+        
     document.getElementById("title3").setAttribute("title", titleText);
 
     /* a Flag is Selected: The Search starts */
