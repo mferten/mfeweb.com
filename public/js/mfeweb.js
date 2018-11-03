@@ -22,53 +22,50 @@
     /* a Flag is Selected: The Search starts */
     function clickEvents(event)
     {
-        if (event.target.id == "emailIcon" || event.target.id == "emailAnchor")
-        {
-            // if PhotoBox is Enabled (No displayNone class)
-            if (!document.getElementById("master").classList.contains("displayNone"))
+        if (event.target.id == "emailIcon" || event.target.id == "emailAnchor") {
+            if (!document.getElementById("master").classList.contains("displayNone")) // if PhotoBox is Enabled (No displayNone class)
             {
-                // Disable Photo Box and Email Button
-                document.getElementById("master").classList.add("displayNone");
-                document.getElementById("menu").classList.add("displayNone");
-                // Enable Email Box
-                document.getElementById("emailBox").classList.remove("displayNone");
-
+                ableDisableMasterMenu("addRemove"); // Disable Photo Box and Email Button
                 document.getElementById("mailText").focus;
             }
-            else // reverse back to the main page
-                        {
-                // Disable Photo Box and Email Button
-                document.getElementById("master").classList.remove("displayNone");
-                document.getElementById("menu").classList.remove("displayNone");
-                // Enable Email Box
-                document.getElementById("emailBox").classList.add("displayNone");
+            else { // reverse back to the main page
+                ableDisableMasterMenu("removeAdd"); // Disable Photo Box and Email Button
             }
         }
-        else if (event.target.id == "sendButton")
-        {
-            if (document.getElementById("mailText").value)
-            {
+        else if (event.target.id == "sendButton") {
+            if (document.getElementById("mailText").value) {
                 processSendMail();
                 processClearMail();
                 returnBack();
-            }
-            else
-            {
+            } else {
                 document.getElementById("mailTextError").innerHTML = "Please Enter Your Message to Send!";
             }
         }
-        else if (event.target.id == "clearButton")
-        {
+        else if (event.target.id == "clearButton") {
             processClearMail();
         }
-        else if (event.target.id == "returnButton")
-        {
+        else if (event.target.id == "returnButton") {
             processClearMail();
             returnBack();
         }
-        else if (event.target.id == "title3")
+        else if (event.target.id == "title3") alert(document.getElementById(event.target.id).title);
+    }
+
+    ableDisableMasterMenu(addRemoveFlag)
+    {
+        if(addRemoveFlag == "addRemove")
         {
-            if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i))) alert(document.getElementById(event.target.id).getAttribute('title'));
+            document.getElementById("master").classList.add("displayNone");
+            document.getElementById("menu").classList.add("displayNone");
+            // Enable Email Box
+            document.getElementById("emailBox").classList.remove("displayNone");
+        }
+        else
+        {
+          document.getElementById("master").classList.remove("displayNone");
+          document.getElementById("menu").classList.remove("displayNone");
+          // Enable Email Box
+          document.getElementById("emailBox").classList.add("displayNone");
         }
     }
 
