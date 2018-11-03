@@ -51,7 +51,7 @@
         else if (event.target.id == "title3") alert(document.getElementById(event.target.id).title);
     }
 
-    ableDisableMasterMenu(addRemoveFlag)
+    function ableDisableMasterMenu(addRemoveFlag)
     {
         if(addRemoveFlag == "addRemove")
         {
