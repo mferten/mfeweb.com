@@ -6,16 +6,13 @@
             <h2 class='harvard'>Harvard
                 <abbr title="Master of Liberal Arts"> ALM</abbr>
                 <abbr title="Digital Media Design"> DMD</abbr>
-                <abbr title="Faculty of Arts and Sciences (FAS)
-                             Division of Continuing Education (DCE)
-                             Harvard Extension School (HES)
-                             Completion by December 2018, Graduation by March 2019 and Commencement by May 2019"> 2019</abbr></h2>
-            <figure id="master">
-                <a href="images/programmingcertificate.png" target="_blank">
-                    <img class="img14 aPng" src="images/programmingcertificate.png"
-                        alt="MFE Harvard Digital Media Design ALM"/>
-                </a>
-            </figure>
+                <abbr id="title3"> 2019</abbr></h2>
+                <figure id="master">
+                    <a href="images/programmingcertificate.png" target="_blank">
+                        <img class="img14 aPng" src="images/programmingcertificate.png"
+                            alt="MFE Harvard Digital Media Design ALM"/>
+                    </a>
+                </figure>
         </header>
 @endpush
 @push('module')
