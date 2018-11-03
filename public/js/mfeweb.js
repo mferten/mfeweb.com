@@ -68,7 +68,7 @@
         }
         else if (event.target.id == "title3")
         {
-            if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i))) alert(this.getAttribute('title'));
+            if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i))) alert(document.getElementById(event.target.id).getAttribute('title'));
         }
     }
 
