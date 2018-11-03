@@ -19,15 +19,6 @@
         "-  Commencement by May 2019";
     document.getElementById("title3").setAttribute("title", titleText);
 
-    if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i))) {
-        var abbr = document.getElementsByTagName('abbr');
-        for(i = 0; i < abbr.length; i++) {
-            abbr[i].addEventListener('click', function() {
-                alert(this.getAttribute('title'));
-            }, false);
-        }
-    }
-
     /* a Flag is Selected: The Search starts */
     function clickEvents(event)
     {
@@ -74,6 +65,10 @@
         {
             processClearMail();
             returnBack();
+        }
+        else if (event.target.id == "title3")
+        {
+            if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i))) alert(this.getAttribute('title'));
         }
     }
 
