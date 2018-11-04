@@ -22,22 +22,22 @@
                 <ul class="ulListStyle">
                     <li>
                         <a href="http://www.mfeworld.com/" target="_blank">
-                            World Dashboard
+                            eWorld Surfing
                         </a>
                     </li>
                     <li>
                         <a href="http://mfeworld.com/dashBoard/" target="_blank">
-                            World Dashboard Search
+                            eWorld Searching
                         </a>
                     </li>
                     <li>
                         <a href="http://mfeworld.com/quizMe/" target="_blank">
-                            World Dashboard Quizzes: WIP
+                            eWorld Testing: WIP
                         </a>
                     </li>
                     <li>
                         <a href="http://mfeworld.com:8080/world-dashboard/" target="_blank">
-                            World Dashboard Control Center: Spring MVC
+                            eWorld Control Center: Spring MVC
                         </a>
                     </li>
                     <li>
