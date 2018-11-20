@@ -31,13 +31,8 @@
                         </a>
                     </li>
                     <li>
-                        <a href="http://mfeworld.com/quizMe/" target="_blank">
-                            eWorld Testing: WIP
-                        </a>
-                    </li>
-                    <li>
                         <a href="http://mfeworld.com:8080/world-dashboard/" target="_blank">
-                            eWorld Control Center: Spring MVC
+                            eWorld Data & Logic Center
                         </a>
                     </li>
                 </ul>
