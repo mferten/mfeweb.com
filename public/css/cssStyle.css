@@ -65,7 +65,7 @@ h1, a {
 }
 
 h1 {
-    margin: .5rem 0 .7rem 0;
+    margin: .35rem 0 .55rem 0;
 }
 
 h2, h3 {
@@ -80,7 +80,7 @@ ul li {
 }
 
 a {
-    font-size: 1.5rem;
+    font-size: 1.45rem;
     text-decoration: none;
     box-shadow: 0 1rem 0.7rem -1rem whitesmoke;
 }
