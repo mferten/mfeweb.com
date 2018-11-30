@@ -86,7 +86,14 @@ ul li {
 a {
     font-size: 1.45rem;
     text-decoration: none;
-    box-shadow: 0 0 0.7rem 0.1rem whitesmoke;
+    box-shadow: 0 0.5rem 0.5rem 0rem #31312a;
+}
+
+
+
+
+
+
 }
 
 a:hover {
