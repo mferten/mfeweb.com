@@ -7,7 +7,6 @@
         {{-- css files --}}
         <link rel="stylesheet" href="css/cssStyle.css">
         {{-- Google Fonts --}}
-        <link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet">
         <!-- require_once("phpfile/require/headTags.php") -->
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
