@@ -21,13 +21,18 @@
             <nav id="menu">
                 <ul class="ulListStyle">
                     <li>
-                        <a href="http://www.mfeworld.com/" target="_blank">
+                        <a href="http://www.mfeworld.com/surfing" target="_blank">
                             eWorld Surfing
                         </a>
                     </li>
                     <li>
-                        <a href="http://mfeworld.com/dashBoard/" target="_blank">
+                        <a href="http://mfeworld.com/searching/" target="_blank">
                             eWorld Searching
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://mfeworld.com/countryCodes/" target="_blank">
+                            eWorld Country Codes
                         </a>
                     </li>
                     <li>
