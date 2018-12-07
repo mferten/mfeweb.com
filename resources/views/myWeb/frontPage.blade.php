@@ -35,6 +35,18 @@
                             eWorld Country Codes
                         </a>
                     </li>
+                    <li>-</li>
+                    <li>
+                        <a href="http://mfeworld.com/textLanguages" target="_blank">
+                            eWorld Text Language
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://mfeworld.com/dataLanguages" target="_blank">
+                            eWorld Data Language
+                        </a>
+                    </li>
+                    <li>-</li>
                     <li>
                         <a href="http://mfeworld.com:8080/world-dashboard/" target="_blank">
                             eWorld Data & Logic Center
