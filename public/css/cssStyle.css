@@ -39,6 +39,7 @@ h1 {
 h2, h3 {
     margin: .1rem;
 }
+
 nav {
     text-align: center;
 }
@@ -53,13 +54,6 @@ a {
     box-shadow: 0 0.5rem 0.5rem 0rem #31312a;
 }
 
-
-
-
-
-
-}
-
 a:hover {
     background-color: #282828;
     color: papayaWhip;
@@ -72,6 +66,7 @@ li a:hover {
 figure, .inlineBlock {
     display: inline-block;
 }
+
 figure a:hover {
     box-shadow: .1rem .3rem .5rem .2rem #eab358;
 }
