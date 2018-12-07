@@ -21,6 +21,11 @@
             <nav id="menu">
                 <ul class="ulListStyle">
                     <li>
+                        <a href="http://www.mfeworld.com" target="_blank">
+                            eWorld
+                        </a>
+                    </li>
+                    <li>
                         <a href="http://www.mfeworld.com/surfing" target="_blank">
                             eWorld Surfing
                         </a>
