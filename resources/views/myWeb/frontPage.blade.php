@@ -2,7 +2,7 @@
 @push('header')
 <!-- place holder -->
         <header>
-            <h1><abbr title="Mehmet F Erten: Mehmet Fatih Erten"> M.F.E</abbr> Web Sites</h1>
+            <h1 class="h1Style"><abbr title="Mehmet F Erten: Mehmet Fatih Erten"> M.F.E</abbr> Web Sites</h1>
             <h2 class='harvard harvardTwo'>
                 <a href="https://www.extension.harvard.edu/academics/graduate-degrees/digital-media-design-degree" target="_blank">
                     <span class='harvard'>HES</span>
@@ -37,7 +37,7 @@
                             eWorld Country Codes
                         </a>
                     </li>
-                    <li>-</li>
+                    <li><span class='harvard displayInvisible'>-</span></li>
                     <li>
                         <a href="http://mfeworld.com:8080/world-dashboard/" target="_blank">
                             eWorld Data & Logic Center
