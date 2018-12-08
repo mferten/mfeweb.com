@@ -155,7 +155,6 @@ label {
     display: grid;
     grid-template-columns: 100%;
     text-align: center;
-    padding: 1rem;
     margin: 0 auto;
 }
 
