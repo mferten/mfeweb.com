@@ -3,16 +3,13 @@
 <!-- place holder -->
         <header>
             <h1><abbr title="Mehmet F Erten: Mehmet Fatih Erten"> M.F.E</abbr> Web Sites</h1>
-            <h2 class='harvard'>Harvard
+            <h2 class='harvard harvardTwo'>
+                <a href="https://www.extension.harvard.edu/academics/graduate-degrees/digital-media-design-degree" target="_blank">
+                    <span class='harvard'>HES</span>
+                </a>
                 <abbr title="Master of Liberal Arts"> ALM</abbr>
                 <abbr title="Digital Media Design"> DMD</abbr>
                 <abbr id="title3"> 2019</abbr></h2>
-                <figure id="master">
-                    <a href="images/programmingcertificate.png" target="_blank">
-                        <img class="img14 aPng" src="images/programmingcertificate.png"
-                            alt="MFE Harvard Digital Media Design ALM"/>
-                    </a>
-                </figure>
         </header>
 @endpush
 @push('module')
@@ -42,17 +39,6 @@
                     </li>
                     <li>-</li>
                     <li>
-                        <a href="http://mfeworld.com/textLanguages" target="_blank">
-                            eWorld Text Language
-                        </a>
-                    </li>
-                    <li>
-                        <a href="http://mfeworld.com/dataLanguages" target="_blank">
-                            eWorld Data Language
-                        </a>
-                    </li>
-                    <li>-</li>
-                    <li>
                         <a href="http://mfeworld.com:8080/world-dashboard/" target="_blank">
                             eWorld Data & Logic Center
                         </a>
@@ -60,16 +46,6 @@
                 </ul>
             </nav>
             <!-- User Opinion -->
-            <figure id="emailBox" class="displayNone">
-                <img id="sendButton" class="iconSize" src="images/sendMail.jpg" alt="Send" title="Send your eMail"/>
-                <img id="clearButton" class="iconSize" src="images/clear.jpg" alt="Clear" title="Clear your eMail"/>
-                <img id="returnButton" class="iconSize" src="images/return.jpg" alt="Return" title="Return to Main Page"/>
-                <form id="SendMailModule" method="post">
-                    <label for="mailText" class='harvard'>Please Enter Your Opinion</label>
-                    <textarea class="img20 aPng" id="mailText" rows="15" cols="50"></textarea>
-                    <p id="mailTextError" class="error"></p>
-                </form>
-            </figure>
         </main>
 @endpush
 

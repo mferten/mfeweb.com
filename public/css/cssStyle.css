@@ -116,8 +116,16 @@ label {
     font-family: 'Indie Flower', cursive;
 }
 
+.harvardTwo {
+    margin: 1rem 0;
+}
+
+.harvardThree {
+    margin: 0 1rem;
+}
+
 .img10 {
-    width: 11rem;
+    width: 10rem;
 }
 
 .img14 {
