@@ -26,14 +26,14 @@
         <footer>
             <h3 class='harvard'>Harvard Graduate Certificates</h3>
             <figure>
-                <figcaption><p class='harvard'>Programming</p></figcaption>
+                <figcaption><p>Programming</p></figcaption>
                 <a href="images/programmingcertificate.png" target="_blank">
                     <img class="img10 aPng" src="images/programmingcertificate.png"
                         alt="MFE Harvard FAS DCE HES Programming Certificate"/>
                 </a>
             </figure>
             <figure>
-                <figcaption><p class='harvard'>Web Technologies</p></figcaption>
+                <figcaption><p>Web Technologies</p></figcaption>
                 <a href="images/webtechnologiescertificate.png" target="_blank">
                     <img class="img10 aPng" src="images/webtechnologiescertificate.png"
                         alt="MFE Harvard FAS DCE HES Web Technologies Certificate"/>
