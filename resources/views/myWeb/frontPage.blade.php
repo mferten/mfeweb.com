@@ -18,12 +18,12 @@
             <nav id="menu">
                 <ul class="ulListStyle">
                     <li>
-                        <a href="http://www.mfeworld.com" target="_blank">
+                        <a href="http://www.eworldsurfing.com" target="_blank">
                             eWorld Surfing
                         </a>
                     </li>
                     <li>
-                        <a href="http://mfeworld.com:8080/world-dashboard/" target="_blank">
+                        <a href="http://eworldsurfing.com:8080/world-dashboard/" target="_blank">
                             eWorld Surfing Center
                         </a>
                     </li>
