@@ -19,28 +19,12 @@
                 <ul class="ulListStyle">
                     <li>
                         <a href="http://www.mfeworld.com" target="_blank">
-                            eWorld
-                        </a>
-                    </li>
-                    <li>
-                        <a href="http://www.mfeworld.com/surfing" target="_blank">
                             eWorld Surfing
                         </a>
                     </li>
                     <li>
-                        <a href="http://mfeworld.com/searching/" target="_blank">
-                            eWorld Searching
-                        </a>
-                    </li>
-                    <li>
-                        <a href="http://mfeworld.com/countryCodes/" target="_blank">
-                            eWorld Country Codes
-                        </a>
-                    </li>
-                    <li><span class='harvard displayInvisible'>-</span></li>
-                    <li>
                         <a href="http://mfeworld.com:8080/world-dashboard/" target="_blank">
-                            eWorld Data & Logic Center
+                            eWorld Surfing Center
                         </a>
                     </li>
                 </ul>

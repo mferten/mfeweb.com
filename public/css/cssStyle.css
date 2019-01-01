@@ -56,6 +56,7 @@ h2, h3 {
 
 nav {
     text-align: center;
+    margin: 3rem;
 }
 
 ul li {
@@ -63,7 +64,7 @@ ul li {
 }
 
 a {
-    font-size: 1.45rem;
+    font-size: 1.75rem;
     text-decoration: none;
     box-shadow: 0 0.5rem 0.5rem 0rem #31312a;
 }
@@ -101,7 +102,7 @@ article {
 }
 
 footer {
-    margin: .2rem;
+    margin: 2.2rem;
 }
 
 p {

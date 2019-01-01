@@ -42,11 +42,8 @@
 
             <ul class="ulListStyle">
                 <li>
-                    <a href="http://www.mfeworld.com/citations" target="_blank">&nbsp;<span class="harvardThree">Citations</span>&nbsp;</a>
                     <a href="https://github.com/mferten" target="_blank">&nbsp;<span class="harvardThree">GitHub&nbsp;</span></a>
                     <a href="https://www.mfeweb.com/mail" target="_blank">&nbsp;<span class="harvardThree">Mail&nbsp;</span></a>
-                    <a href="http://mfeworld.com/textLanguages" target="_blank"><span class="harvardThree">Text Language</span></a>
-                    <a href="http://mfeworld.com/dataLanguages" target="_blank"><span class="harvardThree">Data Language</span></a>
                 </li>
             </ul>
             <img src='https://www.mfeweb.com/images/comodo_secure_seal_76x26_transp.png' alt="Comodo"/>
