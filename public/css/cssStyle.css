@@ -84,7 +84,7 @@ li a:hover {
 
 figure, .inlineBlock {
     display: inline-block;
-    margin: .6rem;
+    margin: 0 .6rem;
 }
 
 figure a:hover {
