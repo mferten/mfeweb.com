@@ -3,18 +3,6 @@
 <!-- place holder -->
         <header>
             <h1><abbr title="Mehmet F Erten: Mehmet Fatih Erten"> M.F.E</abbr> Web Sites</h1>
-            <h2 class='harvard harvardTwo'>
-                <a href="https://www.extension.harvard.edu/academics/graduate-degrees/digital-media-design-degree" target="_blank">
-                    <span class='harvard'>HES</span>
-                </a>
-                <abbr title="Master of Liberal Arts"> ALM</abbr>
-                <abbr title="Digital Media Design"> DMD</abbr>
-                <abbr id="title3"> 2019</abbr></h2>
-        </header>
-@endpush
-@push('module')
-<!-- place holder -->
-        <main>
             <nav id="menu">
                 <ul class="ulListStyle">
                     <li>
@@ -29,6 +17,23 @@
                     </li>
                 </ul>
             </nav>
+        </header>
+@endpush
+@push('module')
+<!-- place holder -->
+        <main>
+            <h2 class='harvard harvardTwo'>
+                <figure>
+                    <figcaption>
+                          <p>Harvard Master of Liberal Arts</p>
+                          <p class="masterDGM">Digital Media Design GPA: 3.94</p>
+                    </figcaption>
+                    <a href="docs/Transcripts.pdf" target="_blank">
+                        <img class="img10 aPng" src="docs/Transcripts.jpeg"
+                            alt="MFE Harvard FAS DCE HES ALM"/>
+                    </a>
+                </figure>
+            </h2>
             <!-- User Opinion -->
         </main>
 @endpush
