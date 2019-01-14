@@ -25,7 +25,7 @@
             <h2 class='harvard harvardTwo'>
                 <figure>
                     <figcaption>
-                          <p>Harvard Master of Liberal Arts</p>
+                          <p>Harvard (HES) Master of Liberal Arts</p>
                           <p class="masterDGM">Digital Media Design GPA: 3.94</p>
                     </figcaption>
                     <a href="docs/Transcripts.pdf" target="_blank">
