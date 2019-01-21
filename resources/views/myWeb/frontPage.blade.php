@@ -29,7 +29,7 @@
                           <p class="masterDGM">Digital Media Design GPA: 3.94</p>
                     </figcaption>
                     <a href="docs/Transcripts.pdf" target="_blank">
-                        <img class="img10 aPng" src="docs/Transcripts.jpeg"
+                        <img class="img10 aPng diplomaSize" src="docs/Transcripts.jpeg"
                             alt="MFE Harvard FAS DCE HES ALM"/>
                     </a>
                 </figure>
