@@ -7,12 +7,12 @@
                 <ul class="ulListStyle">
                     <li>
                         <a href="http://www.eworldsurfing.com" target="_blank">
-                            eWorld Surfing
+                            World, World Regions & World Countries
                         </a>
                     </li>
                     <li>
                         <a href="http://eworldsurfing.com:8080/world-dashboard/" target="_blank">
-                            eWorld Surfing Center
+                            World, World Regions & World Countries Center
                         </a>
                     </li>
                 </ul>
