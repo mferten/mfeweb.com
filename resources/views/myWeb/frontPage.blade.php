@@ -6,13 +6,13 @@
             <nav id="menu">
                 <ul class="ulListStyle">
                     <li>
-                        <a href="http://www.eworldsurfing.com" target="_blank">
-                            World, World Regions & World Countries
+                        <a href="http://www.k12k20.com" target="_blank">
+                            World (K12K20.com)
                         </a>
                     </li>
                     <li>
-                        <a href="http://eworldsurfing.com:8080/world-dashboard/" target="_blank">
-                            World, World Regions & World Countries Center
+                        <a href="http://www.k12k20.com:8080/world-dashboard/" target="_blank">
+                            World (K12K20.com) Center
                         </a>
                     </li>
                 </ul>

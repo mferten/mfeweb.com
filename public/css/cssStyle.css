@@ -45,15 +45,6 @@ h1 {
     color: #EA4CA5;
 }
 
-a, h1, footer {
-    text-align: center;
-    font-weight: bold;
-}
-
-a, footer, .masterDGM {
-    color: #eab358;
-}
-
 h2, h3 {
     margin: .1rem;
 }
@@ -67,8 +58,17 @@ ul li {
     margin: .9rem;
 }
 
+a, h1, footer {
+    text-align: center;
+    font-weight: bold;
+}
+
+a, footer, .masterDGM {
+    color: #eab358;
+}
+
 a {
-    font-size: 1.75rem;
+    font-size: 1.45rem;
     text-decoration: none;
     box-shadow: 0 0.5rem 0.5rem 0rem #31312a;
 }
