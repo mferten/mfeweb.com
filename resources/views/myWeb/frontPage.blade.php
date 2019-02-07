@@ -11,6 +11,16 @@
                         </a>
                     </li>
                     <li>
+                        <a href="http://www.k12k20tr.com" target="_blank">
+                            Dünyamız ile Tanışalım
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://www.k12k20sk.com" target="_blank">
+                            Krajiny sveta
+                        </a>
+                    </li>
+                    <li id="worldCenter">
                         <a href="http://www.k12k20.com:8080/world-dashboard/" target="_blank">
                             Nice to Meet the World Center
                         </a>
@@ -29,7 +39,7 @@
                           <p class="masterDGM">Digital Media Design GPA: 3.94</p>
                     </figcaption>
                     <a href="docs/Transcripts.pdf" target="_blank">
-                        <img class="img10 aPng diplomaSize" src="docs/Transcripts.jpeg"
+                        <img id="transcriptSize" class="img10 aPng" src="docs/Transcripts.jpeg"
                             alt="MFE Harvard FAS DCE HES ALM"/>
                     </a>
                 </figure>

@@ -56,6 +56,8 @@ nav {
 
 ul li {
     margin: .9rem;
+    font-family: 'Fontdiner Swanky', cursive;
+    letter-spacing: .16rem;
 }
 
 a, h1, footer {
@@ -68,7 +70,7 @@ a, footer, .masterDGM {
 }
 
 a {
-    font-size: 1.45rem;
+    font-size: 1.3rem;
     text-decoration: none;
     box-shadow: 0 0.5rem 0.5rem 0rem #31312a;
 }
@@ -184,9 +186,12 @@ label {
     display: none;
 }
 
-.diplomaSize {
-    width: 21.4rem;
-    height: 12rem;
+#worldCenter {
+    margin: 2rem 0 0 0;
+}
+
+#transcriptSize {
+    height: 6rem;
 }
 
 #mailText {
