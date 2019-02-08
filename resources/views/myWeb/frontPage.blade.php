@@ -7,16 +7,22 @@
                 <ul class="ulListStyle">
                     <li>
                         <a href="http://www.k12k20.com" target="_blank">
+                            <img class="img3by2 aPng" src="images/Flag_of_UnitedStatesofAmerica.svg"
+                                alt="Slovakia"/>
                             Nice to Meet the World
                         </a>
                     </li>
                     <li>
                         <a href="http://www.k12k20tr.com" target="_blank">
+                            <img class="img3by2 aPng" src="images/Flag_of_Turkey.svg"
+                                alt="Turkey"/>
                             Dünyamız ile Tanışalım
                         </a>
                     </li>
                     <li>
                         <a href="http://www.k12k20sk.com" target="_blank">
+                            <img class="img3by2 aPng" src="images/Flag_of_Slovakia.svg"
+                                alt="Slovakia"/>
                             Krajiny sveta
                         </a>
                     </li>
