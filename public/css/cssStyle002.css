@@ -150,9 +150,9 @@ label {
     visibility: hidden;
 }
 
-.img3by2 {
-    width: 3rem;
-    height: 2rem;
+.flagAttributes {
+    width: 1.5rem;
+    height: 1rem;
     vertical-align: middle;
 }
 
