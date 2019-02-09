@@ -41,7 +41,7 @@ body {
 
 h1 {
     margin: .7rem 0 .2rem 0;
-    font-size: 2rem;
+    font-size: 2.2rem;
     font-family: 'Fontdiner Swanky', cursive;
     letter-spacing: .1rem;
 }
@@ -191,7 +191,7 @@ label {
 }
 
 #mainSite {
-    font-size: 1.4rem;
+    font-size: 1.5rem;
 }
 
 #menuWorldView {
@@ -213,7 +213,7 @@ label {
     }
     #menuWorldView {
         width: 20rem;
-    }   
+    }
 }
 
 @media (min-width: 401px) and (max-width: 768px) {
