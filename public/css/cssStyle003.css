@@ -36,13 +36,13 @@ body {
     margin: .3rem auto;
     font-weight: bold;
     background-color: #190623;
+    color: #eab358;
 }
 
 h1 {
     margin: 1.5rem;
     font-size: 2.5rem;
     font-family: 'Fontdiner Swanky', cursive;
-    color: #EA4CA5;
 }
 
 h2, h3 {
