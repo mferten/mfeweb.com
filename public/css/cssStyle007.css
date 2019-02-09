@@ -231,3 +231,9 @@ label {
         font-size: .9rem;
     }
 }
+
+@media (max-height: 1800px) and (min-height: 950px) {
+    h1 {
+        margin: 2.2rem 0 1.5rem 0;
+    }
+}    
