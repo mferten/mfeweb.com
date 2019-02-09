@@ -40,7 +40,7 @@ body {
 }
 
 h1 {
-    margin: .7rem 0 .2rem 0;
+    margin: .6rem 0 .4rem 0;
     font-size: 2.2rem;
     font-family: 'Fontdiner Swanky', cursive;
     letter-spacing: .1rem;
@@ -55,10 +55,10 @@ nav {
     margin: .3rem;
 }
 
-ul li, #mainSite {
+ul li {
     margin: .9rem;
     font-family: 'Fontdiner Swanky', cursive;
-    letter-spacing: .16rem;
+    letter-spacing: .1rem;
 }
 
 a, h1, footer {
@@ -73,6 +73,7 @@ a, footer, .masterDGM {
 a {
     font-size: 1.3rem;
     text-decoration: none;
+    margin: 0 .1rem;
     box-shadow: 0 0.5rem 0.5rem 0rem #31312a;
 }
 
@@ -87,7 +88,7 @@ li a:hover {
 
 figure, .inlineBlock {
     display: inline-block;
-    margin: 0 .6rem;
+    margin: 0 .05rem;
 }
 
 figure a:hover {
@@ -139,12 +140,8 @@ label {
     font-family: 'Indie Flower', cursive;
 }
 
-.harvardTwo {
-    margin: .7rem;
-}
-
 .harvardThree {
-    margin: 0 1rem;
+    margin: 0 .3rem;
 }
 
 .displayInvisible {
@@ -188,10 +185,6 @@ label {
 
 .displayNone {
     display: none;
-}
-
-#mainSite {
-    font-size: 1.5rem;
 }
 
 #menuWorldView {
