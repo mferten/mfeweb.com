@@ -27,11 +27,6 @@
                             Krajiny sveta
                         </a>
                     </li>
-                    <li id="worldCenter">
-                        <a href="http://www.k12k20.com:8080/world-dashboard/" target="_blank">
-                            Nice to Meet the World Center
-                        </a>
-                    </li>
                 </ul>
             </nav>
         </header>

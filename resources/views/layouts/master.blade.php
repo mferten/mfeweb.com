@@ -24,13 +24,11 @@
         @stack('module')
         {{-- footer --}}
         <footer>
-            <h3 class='harvard'>Harvard (HES) Graduate Certificates</h3>
-            
             <figure>
-                <figcaption><p><a href="images/programmingcertificate.png" target="_blank">Programming</a></p></figcaption>
+                <figcaption><p><a href="images/programmingcertificate.png" target="_blank">Programming Certificate</a></p></figcaption>
             </figure>
             <figure>
-                <figcaption><p><a href="images/webtechnologiescertificate.png" target="_blank">Web Technologies</a></p></figcaption>
+                <figcaption><p><a href="images/webtechnologiescertificate.png" target="_blank">Web Technologies Certificate</a></p></figcaption>
             </figure>
 
             <ul class="ulListStyle">

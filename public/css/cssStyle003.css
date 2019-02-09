@@ -40,9 +40,10 @@ body {
 }
 
 h1 {
-    margin: 1.5rem;
-    font-size: 2.5rem;
+    margin: .5rem 0 0 0;
+    font-size: 2rem;
     font-family: 'Fontdiner Swanky', cursive;
+    letter-spacing: .1rem;
 }
 
 h2, h3 {
@@ -109,7 +110,7 @@ article {
 }
 
 footer {
-    margin: 1.2rem;
+    margin: .2rem;
 }
 
 p {
@@ -194,7 +195,7 @@ label {
 }
 
 #menuWorldView {
-    width: 16rem;
+    width: 35rem;
 }
 
 #worldCenter {
