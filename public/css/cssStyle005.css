@@ -40,7 +40,7 @@ body {
 }
 
 h1 {
-    margin: .5rem 0 0 0;
+    margin: .7rem 0 .2rem 0;
     font-size: 2rem;
     font-family: 'Fontdiner Swanky', cursive;
     letter-spacing: .1rem;
@@ -55,7 +55,7 @@ nav {
     margin: .3rem;
 }
 
-ul li {
+ul li, #mainSite {
     margin: .9rem;
     font-family: 'Fontdiner Swanky', cursive;
     letter-spacing: .16rem;
@@ -211,11 +211,17 @@ label {
     body {
         background-size: 5rem, 5rem, 5rem, 5rem;
     }
+    #menuWorldView {
+        width: 20rem;
+    }   
 }
 
 @media (min-width: 401px) and (max-width: 768px) {
     body {
         background-size: 5rem, 5rem, 10rem, 10rem;
+    }
+    #menuWorldView {
+        width: 20rem;
     }
 }
 

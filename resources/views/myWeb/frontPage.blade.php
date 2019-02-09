@@ -3,16 +3,14 @@
 <!-- place holder -->
         <header>
             <h1>M.F.E. Websites</h1>
+            <p><a id="mainSite" href="http://www.k12k20.com" target="_blank">
+                <img class="flagAttributes aPng" src="images/Flag_of_UnitedStatesofAmerica.svg"
+                    alt="USA-English"/>
+                Nice to Meet the World
+            </a></p>
             <img id="menuWorldView" src="/images/_world.png" alt="World View">
             <nav id="menu">
                 <ul class="ulListStyle">
-                    <li>
-                        <a id="mainSite" href="http://www.k12k20.com" target="_blank">
-                            <img class="flagAttributes aPng" src="images/Flag_of_UnitedStatesofAmerica.svg"
-                                alt="USA-English"/>
-                            Nice to Meet the World
-                        </a>
-                    </li>
                     <li>
                         <a href="http://www.k12k20tr.com" target="_blank">
                             <img class="flagAttributes aPng" src="images/Flag_of_Turkey.svg"
