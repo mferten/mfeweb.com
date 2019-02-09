@@ -8,23 +8,7 @@
                 <ul class="ulListStyle">
                     <li>
                         <a href="http://www.k12k20.com" target="_blank">
-                            <img class="flagAttributes aPng" src="images/Flag_of_UnitedStatesofAmerica.svg"
-                                alt="USA-English"/>
-                            Nice to Meet the World
-                        </a>
-                    </li>
-                    <li>
-                        <a href="http://www.k12k20tr.com" target="_blank">
-                            <img class="flagAttributes aPng" src="images/Flag_of_Turkey.svg"
-                                alt="Turkey"/>
-                            Dünyamız ile Tanışalım
-                        </a>
-                    </li>
-                    <li>
-                        <a href="http://www.k12k20sk.com" target="_blank">
-                            <img class="flagAttributes aPng" src="images/Flag_of_Slovakia.svg"
-                                alt="Slovakia"/>
-                            Krajiny sveta
+                            <span id="mainWebSite">k12k20.com</span>
                         </a>
                     </li>
                 </ul>
@@ -37,21 +21,24 @@
             <h2 class='harvard'>
                 <figure>
                     <figcaption>
-                          <p>Harvard FAS HES Digital Media Design Master</p>
+                          <p>Harvard FAS HES Digital Media Design</p>
                           <p class="masterDGM">
                               <ul class="ulListStyle">
                                   <li class="inlineBlock">
-                                      <a href="docs/Transcripts.pdf" target="_blank"><span class="harvardThree">ALM</span></a>
+                                      <a href="docs/Transcripts.pdf" target="_blank"><span class="harvardThree">Master in Liberal Arts</span></a>
                                   </li>
+                                  <li class="inlineBlock">
+                                      <a href="docs/Transcripts.pdf" target="_blank"><span class="harvardThree">3.94 GPA</span></a>
+                                  </li>
+                              </ul>
+                              <ul class="ulListStyle">
                                   <li class="inlineBlock">
                                       <a href="images/programmingcertificate.png" target="_blank"><span class="harvardThree">Programming</span></a>
                                   </li>
                                   <li class="inlineBlock">
                                       <a href="images/webtechnologiescertificate.png" target="_blank"><span class="harvardThree">Web Technologies</span></a>
                                   </li>
-                                  <li class="inlineBlock">
-                                      <a href="docs/Transcripts.pdf" target="_blank"><span class="harvardThree">3.94 GPA</span></a>
-                                  </li>
+
                               </ul>
                           </p>
                     </figcaption>
