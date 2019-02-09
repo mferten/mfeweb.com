@@ -2,13 +2,14 @@
 @push('header')
 <!-- place holder -->
         <header>
-            <h1><abbr title="Mehmet F Erten: Mehmet Fatih Erten"> M.F.E</abbr> Web Sites</h1>
+            <h1>M.F.E. Websites</h1>
+            <img id="menuWorldView" src="/images/_world.png" alt="World View">
             <nav id="menu">
                 <ul class="ulListStyle">
                     <li>
-                        <a href="http://www.k12k20.com" target="_blank">
+                        <a id="mainSite" href="http://www.k12k20.com" target="_blank">
                             <img class="flagAttributes aPng" src="images/Flag_of_UnitedStatesofAmerica.svg"
-                                alt="Slovakia"/>
+                                alt="USA-English"/>
                             Nice to Meet the World
                         </a>
                     </li>
@@ -42,12 +43,8 @@
                 <figure>
                     <figcaption>
                           <p>Harvard (HES) Master of Liberal Arts</p>
-                          <p class="masterDGM">Digital Media Design GPA: 3.94</p>
+                          <p class="masterDGM"><a href="docs/Transcripts.pdf" target="_blank"> Digital Media Design GPA: 3.94</a></p>
                     </figcaption>
-                    <a href="docs/Transcripts.pdf" target="_blank">
-                        <img id="transcriptSize" class="img10 aPng" src="docs/Transcripts.jpeg"
-                            alt="MFE Harvard FAS DCE HES ALM"/>
-                    </a>
                 </figure>
             </h2>
             <!-- User Opinion -->

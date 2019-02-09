@@ -5,7 +5,7 @@
         <!-- Head: meta, title, link, script statements -->
         <link rel="icon" href="images/favicon.ico" type="image/x-icon">
         {{-- css files --}}
-        <link rel="stylesheet" href="css/cssStyle002.css">
+        <link rel="stylesheet" href="css/cssStyle003.css">
         {{-- Google Fonts --}}
         <!-- require_once("phpfile/require/headTags.php") -->
         <meta charset="UTF-8">
@@ -25,19 +25,12 @@
         {{-- footer --}}
         <footer>
             <h3 class='harvard'>Harvard (HES) Graduate Certificates</h3>
+            
             <figure>
-                <figcaption><p>Programming</p></figcaption>
-                <a href="images/programmingcertificate.png" target="_blank">
-                    <img class="img10 aPng" src="images/programmingcertificate.png"
-                        alt="MFE Harvard FAS DCE HES Programming Certificate"/>
-                </a>
+                <figcaption><p><a href="images/programmingcertificate.png" target="_blank">Programming</a></p></figcaption>
             </figure>
             <figure>
-                <figcaption><p>Web Technologies</p></figcaption>
-                <a href="images/webtechnologiescertificate.png" target="_blank">
-                    <img class="img10 aPng" src="images/webtechnologiescertificate.png"
-                        alt="MFE Harvard FAS DCE HES Web Technologies Certificate"/>
-                </a>
+                <figcaption><p><a href="images/webtechnologiescertificate.png" target="_blank">Web Technologies</a></p></figcaption>
             </figure>
 
             <ul class="ulListStyle">
