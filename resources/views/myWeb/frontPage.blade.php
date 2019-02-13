@@ -8,7 +8,7 @@
                 <ul class="ulListStyle">
                     <li>
                         <a href="http://www.k12k20.com" target="_blank">
-                            <span id="mainWebSite">k12k20.com</span>
+                            <span id="mainWebSite">Our World</span>
                         </a>
                     </li>
                 </ul>
@@ -25,7 +25,7 @@
                           <p class="masterDGM">
                               <ul class="ulListStyle">
                                   <li class="inlineBlock">
-                                      <a href="docs/Transcripts.pdf" target="_blank"><span class="harvardThree">Master in Liberal Arts</span></a>
+                                      <a href="docs/Transcripts.pdf" target="_blank"><span class="harvardThree">Master ALM</span></a>
                                   </li>
                                   <li class="inlineBlock">
                                       <a href="docs/Transcripts.pdf" target="_blank"><span class="harvardThree">3.94 GPA</span></a>
