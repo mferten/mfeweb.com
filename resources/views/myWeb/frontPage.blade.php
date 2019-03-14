@@ -25,7 +25,7 @@
                           <p class="masterDGM">
                               <ul class="ulListStyle">
                                   <li class="inlineBlock">
-                                      <a href="docs/Transcripts.pdf" target="_blank"><span class="harvardThree">Master ALM-IT</span></a>
+                                      <a href="docs/DiplomaALMIT.pdf" target="_blank"><span class="harvardThree">Master ALM-IT</span></a>
                                   </li>
                                   <li class="inlineBlock">
                                       <a href="docs/Transcripts.pdf" target="_blank"><span class="harvardThree">Dean's Award 3.94 GPA</span></a>
