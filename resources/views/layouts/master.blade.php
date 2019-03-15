@@ -32,8 +32,7 @@
             </ul>
             <img src='https://www.mfeweb.com/images/comodo_secure_seal_76x26_transp.png' alt="Comodo"/>
             <p>&copy; {{ date('Y') }} Mehmet F Erten</p>
-            </footer>
+        </footer>
         @stack('jsFiles')
-        </script>
     </body>
 </html>
