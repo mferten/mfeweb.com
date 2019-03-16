@@ -3,6 +3,7 @@
 <!-- place holder -->
         <header>
             <h1 id="h1Title">M.F.E. Websites</h1>
+            <figcaption class="borderImage">Prototyping a High-tech Organic Family Farm-Inn-Office</figcaption>
             <img id="menuWorldView" src="/images/_world.png" alt="World View">
             <nav id="menu">
                 <ul class="ulListStyle">
