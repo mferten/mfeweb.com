@@ -78,12 +78,32 @@ var countryGreetingTexts = {
     74: "Hei, hvordan har du det?",
     75: "नमस्ते, तिमीलाई कस्तो छ?" };
 
+var mapSources = {
+    0: "/images/_world.png",
+    1: "/images/_africa.png",
+    2: "/images/_asia.png",
+    3: "/images/_europe.png",
+    4: "/images/_northAmerica.png",
+    5: "/images/_oceania.png",
+    6: "/images/_southAmerica.png" };
+
 var startNumber = 0;
+var mapNumber = 1;
+
 setTimeout(function() {
     setInterval(mySalutationTimer, 2000);
 }, 1500);
 
+setTimeout(function() {
+    setInterval(swapTheMaps, 3100);
+}, 3100);
+
 function mySalutationTimer() {
     document.getElementById("h1Title").innerHTML = countryGreetingTexts[startNumber++];
     if (!countryGreetingTexts[startNumber]) startNumber = 0;
+}
+
+function swapTheMaps() {
+    document.getElementById("menuWorldView").src = mapSources[mapNumber++];
+    if (!mapSources[mapNumber]) mapNumber = 0;
 }
