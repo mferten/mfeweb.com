@@ -95,7 +95,7 @@ setTimeout(function() {
 }, 1500);
 
 setTimeout(function() {
-    setInterval(swapTheMaps, 3100);
+    setInterval(swapTheMaps, 6100);
 }, 3100);
 
 function mySalutationTimer() {
