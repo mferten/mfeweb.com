@@ -90,13 +90,9 @@ var mapSources = {
 var startNumber = 0;
 var mapNumber = 1;
 
-setTimeout(function() {
-    setInterval(mySalutationTimer, 2000);
-}, 1500);
+setInterval(mySalutationTimer, 4000);
 
-setTimeout(function() {
-    setInterval(swapTheMaps, 6100);
-}, 3100);
+setInterval(swapTheMaps, 12100);
 
 function mySalutationTimer() {
     document.getElementById("h1Title").innerHTML = countryGreetingTexts[startNumber++];
